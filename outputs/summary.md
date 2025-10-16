@@ -10,9 +10,7 @@ The gene-analysis automation (`task3.py`) samples fifty HGNC symbols, queries Me
 | Open WebUI | Automated reinstall + Sophia provider | `.env.openwebui` + `OPEN_WEBUI_CONFIG_DIR` bootstrap; in-UI chat verified |
 | Gene analysis | Automated disease tagging & QA hooks | 11 cancer, 1 heart-disease associations; 364 s runtime |
 | Local models | Ollama replay of gene pipeline | Llama3.2:3b ≈ 106 s; Phi3:3.8b ≈ 183 s |
-| nanoGPT | Shakespeare fine-tune on MPS | Val loss dips to 3.59 (step 200); see figure |
-
-![nanoGPT learning curve](nanogpt_learning_curve.png)
+| nanoGPT | Shakespeare fine-tune on MPS | Val loss dips to 3.59 (step 200);|
 
 # Resumen del Flujo de Trabajo (Español)
 
@@ -26,9 +24,7 @@ La automatización de análisis génico (`task3.py`) selecciona cincuenta símbo
 | Open WebUI | Reinstalación automatizada + proveedor Sophia | `.env.openwebui` + `OPEN_WEBUI_CONFIG_DIR`; chats comprobados |
 | Análisis génico | Etiquetado automático con controles | 11 cáncer, 1 cardiopatía; ejecución de 364 s |
 | Modelos locales | Repetición con Ollama | Llama3.2:3b ≈ 106 s; Phi3:3.8b ≈ 183 s |
-| nanoGPT | Ajuste fino en MPS | Val loss mínima 3.59 (paso 200); ver figura |
-
-![nanoGPT learning curve](nanogpt_learning_curve.png)
+| nanoGPT | Ajuste fino en MPS | Val loss mínima 3.59 (paso 200); |
 
 # 100-Word Observation on Tasks A & B
 
