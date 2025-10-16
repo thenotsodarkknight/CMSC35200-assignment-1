@@ -4,7 +4,7 @@ First, I re-authenticated with Globus using the Sophia-tools repo and created a 
 
 The gene-analysis automation (`task3.py`) samples fifty HGNC symbols, queries Meta-Llama‑3.1‑70B on Sophia, and emits structured evidence for four disease classes in 364 s, versus ~200 minutes of manual research. I confirmed JSON fidelity by cross-checking each gene entry and flagging sentences with “no known association” for follow-up. Local Ollama runs of Llama 3.2 3B and Phi‑3 3.8B (`task4.py`) replay the pipeline, letting me quantify offline speed/quality trade-offs. Finally, I fine-tuned nanoGPT on Shakespeare with Apple MPS (`task5.py`), captured the training transcript, and plotted the learning curve below.
 
-| Task | Highlights | Key Metrics |
+| Task | Highlights | Key Metrics / Code / Deliverables |
 | --- | --- | --- |
 | Telephone chain | Four-model paraphrase relay, 10 prompts | Avg latencies: 2.24 → 4.03 → 3.22 → 6.80 |
 | Open WebUI | Automated reinstall + Sophia provider | `.env.openwebui` + `OPEN_WEBUI_CONFIG_DIR` bootstrap; in-UI chat verified |
@@ -28,4 +28,4 @@ La automatización de análisis génico (`task3.py`) selecciona cincuenta símbo
 
 # 100-Word Observation on Tasks A & B
 
-Pending
+For Task A, I had written the initial draft of the summary and had used AI (tried four different models from Sophia: meta-llama/Meta-Llama-3.1-8B-Instruct, openai/gpt-oss-20b, google/gemma-3-27b-it and meta-llama/Meta-Llama-3.1-70B-Instruct); the instruct models seemed to give better summaries, I had to try out a bunch of different prompts (for example, making sure that AI doesn't omit things I wanted to have in the summary). Next I faced issues when trying to make the AI understand what '1 page's length' is. I tried with character counts, and that didn't seem to work. Later, I tried providing a sample text of the number of characters I wanted and told the AI that I wanted the output to be of that length. Once, I had the Task A ready, Task B was relatively simpler. I used Google Translate's Spanish to English for my own validation.
