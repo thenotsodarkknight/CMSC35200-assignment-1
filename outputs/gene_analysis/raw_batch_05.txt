@@ -1,0 +1,264 @@
+{
+  "genes": [
+    {
+      "symbol": "OSBPL5",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "OSBPL5 has been implicated in the regulation of cell growth and proliferation, and its overexpression has been linked to various types of cancer. Studies have shown that OSBPL5 promotes cancer cell survival and metastasis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no solid evidence linking OSBPL5 to heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between OSBPL5 and diabetes. Its primary function is related to lipid metabolism and cell growth."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between OSBPL5 and dementia. Its primary function is related to lipid metabolism and cell growth."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "DAD1P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "NR4A1AS",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "NR4A1AS is a long non-coding RNA and its function is not well understood. There is no solid evidence linking it to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no known association between NR4A1AS and heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between NR4A1AS and diabetes. Further research is needed to determine its potential role."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between NR4A1AS and dementia. Further research is needed to determine its potential role."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "NANOS1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "NANOS1 has been implicated in the regulation of cell growth and proliferation, and its overexpression has been linked to various types of cancer. Studies have shown that NANOS1 promotes cancer cell survival and metastasis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no solid evidence linking NANOS1 to heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between NANOS1 and diabetes. Its primary function is related to germ cell development."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between NANOS1 and dementia. Its primary function is related to germ cell development."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "TLE2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "TLE2 is a transcriptional co-repressor and its function is not well understood. There is no solid evidence linking it to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no known association between TLE2 and heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between TLE2 and diabetes. Further research is needed to determine its potential role."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between TLE2 and dementia. Further research is needed to determine its potential role."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "LINC02827",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "LINC02827 is a long non-coding RNA and its function is not well understood. There is no solid evidence linking it to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no known association between LINC02827 and heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between LINC02827 and diabetes. Further research is needed to determine its potential role."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between LINC02827 and dementia. Further research is needed to determine its potential role."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "BTF3P16",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "RNA5SP188",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "RNA5SP188 is a small nuclear RNA and its function is not well understood. There is no solid evidence linking it to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no known association between RNA5SP188 and heart disease. Further research is needed to determine its potential role."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between RNA5SP188 and diabetes. Further research is needed to determine its potential role."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no known association between RNA5SP188 and dementia. Further research is needed to determine its potential role."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "SAXO3",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    },
+    {
+      "symbol": "ENOPH1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes from the provided list."
+      }
+    }
+  ]
+}

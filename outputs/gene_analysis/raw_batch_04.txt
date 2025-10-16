@@ -1,0 +1,264 @@
+{
+  "genes": [
+    {
+      "symbol": "ADAM33",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "ADAM33 is primarily associated with asthma and airway remodeling, not cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct evidence links ADAM33 to heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between ADAM33 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between ADAM33 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "GFUS",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between GFUS and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between GFUS and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between GFUS and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between GFUS and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "PTBP3",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between PTBP3 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between PTBP3 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between PTBP3 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between PTBP3 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "MYCLP2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between MYCLP2 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between MYCLP2 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between MYCLP2 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between MYCLP2 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "MAGEA8-AS1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "MAGEA8-AS1 is a long non-coding RNA associated with various cancers, including breast and lung cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between MAGEA8-AS1 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between MAGEA8-AS1 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between MAGEA8-AS1 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "GALT",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between GALT and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between GALT and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between GALT and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between GALT and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "KCNH1-IT1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between KCNH1-IT1 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between KCNH1-IT1 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between KCNH1-IT1 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between KCNH1-IT1 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "MTND4P4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between MTND4P4 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between MTND4P4 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between MTND4P4 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between MTND4P4 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "DENND11",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between DENND11 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between DENND11 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between DENND11 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between DENND11 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    },
+    {
+      "symbol": "CXCR2",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "CXCR2 is associated with various cancers, including breast and lung cancer, and plays a role in tumor progression and metastasis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between CXCR2 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between CXCR2 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between CXCR2 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes on the list."
+      }
+    }
+  ]
+}

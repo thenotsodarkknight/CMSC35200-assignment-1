@@ -1,0 +1,15 @@
+{
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "runtime_seconds": 364.03472987399994,
+  "manual_estimate_minutes": 200.0,
+  "summary": {
+    "total_genes": 50,
+    "disease_counts": {
+      "cancer": 11,
+      "heart_disease": 1,
+      "diabetes": 0,
+      "dementia": 1
+    },
+    "genes_with_interactions": []
+  }
+}

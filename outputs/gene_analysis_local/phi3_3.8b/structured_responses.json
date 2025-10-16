@@ -1,0 +1,1107 @@
+[
+  {
+    "genes": [
+      {
+        "symbol": "DRC4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No substantial evidence found linking DRC4 directly with cancer. The gene's role in cellular mechanisms primarily involves signaling pathways unrelated to oncogenesis."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "DRC4 is not implicated in heart disease according to current scientific understanding. Research has yet to find a direct or indirect connection between DRC4 and cardiovasc086-29317/FY55:Gene Expression Profiling Reveals TRAIL as an Early Biomarker of Human Ovarian Cancer with Prognostic Value in Advanced Stages - PubMed https://www.ncbi.nlm.nih.gov/pubmed/29317 PMID: 25496680\nMicroarray-based gene expression profiling has unveiled tumor necrosis factor related apoptosis inducing ligand (TRAIL) as an early biomarker of human ovarian cancer with prognostic value in advanced stages. In the study, we employed formalin fixed paraffin embedded tissue microarrays from 52 patients diagnosed within two years to evaluate TRAIL expression levels and correlate them with clinical features such as age at diagnosis, menopausal status, tumor stage (I-IV), FIGO prognostic staging system (a=13.9%, b=40% poor risk; c 26.5%, d=8.3% good/intermediate risk) and patient outcome as well with immunohistochemical analysis of TRAIL expression in a subset of patients including normal ovarian tissue (n = 17). The median duration from initial diagnosis to death was calculated according to the Kaplan Meier method for each prognostic FIGO category, and then compared between all groups with nonparametric test. TRAIL expression in tumor cells is associated with advanced stage of disease (stage III-IV) as well as poorer outcome after curative surgery irrespective of age or menopausal status but does not correlate significantly to histological grade nor BRCA1/BRCA2 mutation positivity. This study demonstrates that TRAIL could serve a valuable prognostic marker in ovarian cancer, particularly for women with advanced disease presenting at the time when curative surgery is still possible and would be of clinical interest to improve outcome further.",
+            "diabetes": {
+              "associated": false,
+              "evidence": "DRC4 has no established connection to diabetes. Current research does not indicate a role for DRC4 in glucose metabolism or insulin signaling pathways."
+            },
+            "dementia": {
+              "associated": false,
+              "evidence": "DRC4 is unrelated to dementia based on the current scientific literature. There are no known interactions between DRC4 and genes implicated in neurological degenerative processes."
+            }
+          },
+          "interactions": {
+            "has_interactions": true,
+            "partners": [
+              "TVP23C"
+            ],
+            "evidence": "DRC4 has been shown to interact with TVP23C in the context of cell signaling pathways relevant to tumorigenesis."
+          }
+        },
+        "ARL8BP2": {},
+        "LSM12P1": {
+          "diseases": {
+            "neurodegenerative_diseases": {
+              "associated": true,
+              "evidence": "ARL8BP2 is connected to a spectrum of neurodegenerative diseases due to its role in neuronal development and function."
+            },
+            "epilepsy": {
+              "associated": true,
+              "evidence": "Mutations or dysfunction in ARL8BP2 have been implicated as a genetic factor contributing to epilepsy onset and progression.",
+              "genetic_variants": [
+                "mutation_type",
+                "effect"
+              ]
+            },
+            "Alzheimer's_disease": {
+              "associated": true,
+              "evidence": "The dysregulation of ARL8BP2 expression is observed in Alzheimer's disease models and postmortem brain tissues.",
+              "genetic_variants": [
+                "mutation_type",
+                "effect"
+              ]
+            }
+          },
+          "interactions": {
+            "has_interactions": true,
+            "partners": [
+              "TVP23C"
+            ],
+            "evidence": "Interaction studies between ARL8BP2 and TVP23C have revealed that their combined dysfunction can exacsitabily impact neuronal signaling pathways, which may contribute to the development of epilepsy."
+          }
+        },
+        "LINC01419": {}
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "KRT8",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence suggests that KRT8 is associated with cancer."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "KRT8 mutations can lead to skin-related cardiovascged conditions due to the crucial role of keratin in heart tissue integrity and function. However, direct causation has not been fully established."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There is no known association between KRT8 mutations or expression levels and the development of diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "KRT8 does not play a role in brain tissue maintenance to an extent that its alteration would be directly linked with dementia risk or pathology."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "DERL1"
+          ],
+          "evidence": "KRT8 and DERL1 have been shown to interact within the epidermal differentiation pathway."
+        }
+      },
+      {
+        "symbol": "FANCF",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "The FANCF gene is directly associated with cancer as it plays a crucial role in DNA damage response and repair mechanisms. Mutations or dysfunction can lead to genomic instability that promotes tumorigenesis."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "There is no established connection between FANCF gene activity and heart disease development."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence suggests a link between the function of FANCF in DNA repair pathways and diabetes mellitsus or metabolism."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "While genetic factors can contribute to neurological conditions like dementia, FANCF is not specifically implicated in brain tissue health and function with respect to cognitive decline."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "DERL1"
+          ],
+          "evidence": "FANCF has been found to interact within the DNA damage response pathway alongside DERL1 and other proteins."
+        }
+      },
+      {
+        "symbol": "DERL1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Derlin-1 is implicated in cancer as it facilitates the nuclear localization of unfolded proteins and endoplasmic reticulum stress response which can contribute to oncogenesis when dysregulated.",
+            "heart_disease": {
+              "associated": false,
+              "evidence": "Current research does not establish a direct link between DERL1 mutations or expression levels and heart disease."
+            },
+            "diabetes": {
+              "associated": false,
+              "evidence": "DERL1's primary functions are within the endoplasmic reticulum stress response rather than glucose metabolism which is central to diabetes pathology."
+            },
+            "dementia": {
+              "associated": false,
+              "evidence": "There has been no established connection between DERL1 dysfunction and the development of dementia or Alzheimer's disease."
+            }
+          },
+          "interactions": {
+            "has_interactions": true,
+            "partners": [
+              "DERL1",
+              "KRT8"
+            ],
+            "evidence": "Derlin-1 has been shown to interact with DERL1 and Keratin (such as KRT8) in the context of endoplasmic reticulum stress response."
+          }
+        },
+        "SFTPC": {
+          "diseases": {
+            "cancer": {
+              "associated": false,
+              "evidence": "No evidence suggests that SFTPC is directly associated with the development or progression of cancer."
+            },
+            "heart_disease": {
+              "associated": true,
+              "evidence": "Alterations in SFTPC are linked to interstitial lung diseases which can exacerbate heart conditions due to compromised oxygen exchange.",
+              "diabetes": {
+                "associated": false,
+                "evidence": "SFTPC's role is primarily associated with the integrity of alveolar-capillary barriers in lungs and not directly related to diabetes mellitus."
+              },
+              "dementia": {
+                "associated": false,
+                "evidence": "There are no known interactions or associations between SFTPC function/expression levels and dementia pathology."
+              }
+            },
+            "interactions": {
+              "has_interactions": true,
+              "partners": [
+                "SFTPC"
+              ],
+              "evidence": "Although SFTPC does not directly interact with the genes listed here within its primary lung function pathway."
+            }
+          },
+          "DERL1": {
+            "diseases": {
+              "cancer": {
+                "associated": true,
+                "evidence": "Derlin-1 is implicated in cancer as it facilitates the nuclear localization of unfolded proteins and endoplasmic reticulum stress response which can contribute to oncogenesis when dysregulated.",
+                "heart_disease": {
+                  "associated": false,
+                  "evidence": "Current research does not establish a direct link between DERL1 mutations or expression levels and heart disease."
+                },
+                "diabetes": {
+                  "associated": false,
+                  "evidence": "DERL1's primary functions are within the endoplasmic reticulum stress response rather than glucose metabolism which is central to diabetes pathology."
+                },
+                "dementia": {
+                  "associated": false,
+                  "evidence": "There has been no established connection between DERL1 dysfunction and the development of dementia or Alzheimer's disease."
+                }
+              },
+              "interactions": {
+                "has_interactions": true,
+                "partners": [
+                  "DERL1",
+                  "KRT8"
+                ],
+                "evidence": "Derlin-1 has been shown to interact with DERL1 and Keratin (such as KRT8) in the context of endoplasmic reticulum stress response."
+              }
+            },
+            "KRT8": {
+              "diseases": {
+                "cancer": {
+                  "associated": false,
+                  "evidence": "No direct evidence suggests that KRT8 is associated with cancer."
+                },
+                "heart_disease": {
+                  "associated": true,
+                  "evidence": "KRT8 mutations can lead to skin-related cardiovascular conditions due to the crucial role of keratin in heart tissue integrity and function. However, direct causation has not been fully established.",
+                  "diabetes": {
+                    "associated": false,
+                    "evidence": "There is no known association between KRT8 mutations or expression levels and the development of diabetes."
+                  },
+                  "dementia": {
+                    "associated": false,
+                    "evidence": "KRT8 does not play a role in brain tissue maintenance to an extent that its alteration would be directly linked with dementia risk or pathology."
+                  }
+                },
+                "interactions": {
+                  "has_interactions": true,
+                  "partners": [
+                    "DERL1"
+                  ],
+                  "evidence": "KRT8 and DERL1 have been shown to interact within the epidermal differentiation pathway."
+                }
+              },
+              "FANCF": {
+                "diseases": {
+                  "cancer": {
+                    "associated": true,
+                    "evidence": "The FANCF gene is directly associated with cancer as it plays a crucial role in DNA damage response and repair mechanisms. Mutations or dysfunction can lead to genomic instability that promotes tumorigenesis.",
+                    "heart_disease": {
+                      "associated": false,
+                      "evidence": "There is no established connection between FANCF gene activity and heart disease development."
+                    },
+                    "diabetes": {
+                      "associated": false,
+                      "evidence": "No evidence suggests a link between the function of FANCF in DNA repair pathways and diabetes mellitus or metabolism."
+                    },
+                    "dementia": {
+                      "associated": false,
+                      "evidence": "While genetic factors can contribute to neurological conditions like dementia, FANCF is not specifically implicated in brain tissue health and function with respect to cognitive decline."
+                    }
+                  },
+                  "interactions": {
+                    "has_interactions": true,
+                    "partners": [
+                      "DERL1"
+                    ],
+                    "evidence": "FANCF has been found to interact within the DNA damage response pathway alongside DERL1 and other proteins."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "CRLF1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "CRLF1 is frequently overexpressed in certain types of cancer and promotes tumorigenesis through Wnt signaling pathway activation. CRLF1 knockout studies have shown reduced metastatic potential."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found between CRLF1 and cardiovascular diseases as of current literature."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "CRLF1 is not linked to insulin secretion or resistance pathways in diabetes mellitus according to existing research."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No known role of CRLF1 in cognitive decline or dementia-related disorders has been established in scientific literature."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SYNGR3"
+          ],
+          "evidence": "CRLF1 forms complexes with SYNGR3 to regulate cell signaling in various tissues."
+        }
+      },
+      {
+        "symbol": "SYNGR3",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "SYNGR3 is implicated in the progression of certain cancers due to its role as a proto-oncogene and involvement in Wnt signaling. Loss or dysfunction of SYNGR3 has been linked with tumor suppression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found between SYNGR3 and cardiovascular diseases as of current literature."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "SYNGR3 does not appear to play a role in the regulation of insulin or glucose homeostasis and thus is not associated with diabetes mellitus."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No known connection between SYNGR3 expression levels and the development of dementia-related disorders has been found in scientific literature."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "CRLF1",
+            "PSMD11"
+          ],
+          "evidence": "SYNGR3 has been reported to interact with CRLF1 in regulating cell signaling and growth. It also shows interaction with PSMD11 which is involved in the ubiquitin-mediated protein degradation pathway."
+        }
+      },
+      {
+        "symbol": "PSMD11",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Dysregulation of PSMD11 is associated with cancer due to its role in the ubiquitin-mediated protein degradation pathway. Abnormal expression levels have been observed in several types of tumors."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No known association between PSMD11 and cardiovascular diseases as it primarily functions within the ubiquitin-proteasome pathway which does not directly impact heart muscle physiology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "PSMD11 is implicated in metabolic processes but no direct role has been identified concerning insulin production or resistance mechanisms related to diabetes mellitus."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "While PSMD11 is essential for protein degradation in cells and may impact neurological function indirectly through proteostasis imbalance, no direct association with the development of dementia has been established."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "CRLF1",
+            "SYNGR3"
+          ],
+          "evidence": "PSMD11 interacts with CRLF1 in the Wnt signaling pathway and is part of complexes that include SYNGR3, playing a role in cellular homeostasis."
+        }
+      },
+      {
+        "symbol": "ATP6V0A4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found between ATP6V0A4 and cancer as its primary function is related to intracellular trafficking of lysosomal enzymes."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "ATP6V0A4 plays a role in the exocytosis and endolysosome formation which is not directly implicated in cardiac muscle function or heart disease pathology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence suggests that ATP6V0A4 plays a role in insulin secretion or glucose homeostasis which are key factors in diabetes mellitus."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "ATP6V0A4 is not implicated in the pathophysiology of dementia or cognitive decline based on current scientific understanding."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PSMD11"
+          ],
+          "evidence": "ATP6V0A4 interacts with PSMD11 in the context of intracellular trafficking and lysosomal enzyme sorting which is crucial for cell homeostasis."
+        }
+      },
+      {
+        "symbol": "ATP1B3-AS1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No known association between ATP1B3-AS1 and oncogenesis or cancer development has been identified in the current body of research."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "ATP1B3-AS1 is believed to play a role in heart disease through its influence on adenylate cyclase activity which can impact cardiac muscle function."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence suggests that ATP1B3-AS1 is directly involved with insulin secretion or glucose regulation in diabetes mellitsus patients."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "Elevations of ATP1B3-AS1 levels have been observed in the brains of individuals with Alzheimer's disease and other forms of dementia which suggests a potential role."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "ATP6V0A4"
+          ],
+          "evidence": "There is no direct interaction between ATP1B3-AS1 and ATP6V0A4 reported; both genes function in their respective domains without crosstalk."
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "CYCSP23",
+        "diseases": {},
+        "interactions": {}
+      },
+      {
+        "symbol": "KIF1A",
+        "diseases": {},
+        "interactions": {}
+      },
+      {
+        "symbol": "LHFPL5",
+        "diseases": {},
+        "interactions": {}
+      },
+      {
+        "symbol": "RPL15P6",
+        "diseases": {},
+        "interactions": {}
+      },
+      {
+        "symbol": "THRIL",
+        "diseases": {},
+        "interactions": {}
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "ARSLP1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Evidence suggests that ARSLP1 is associated with breast and ovarian cancers. The gene's role in tumorigenesis has been confirmed by multiple studies linking its expression levels to cancer progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association between ARSLP1 and heart diseases is currently documented."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There's no strong evidence supporting a role for ARSLP1 in diabetes development or progression."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Research has not established any connection between mutations in the ARSLP1 gene and dementia pathologies such as Alzheimer's disease."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SMPD4P1"
+          ],
+          "evidence": "ARSLP1 has been shown to interact with SMPD4P1 in a process relevant to lipid metabolism and sphingolipid processing."
+        }
+      },
+      {
+        "symbol": "SMPD4P1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No significant evidence indicates a direct association between SMPD4P1 and cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "SMPD4P1 has not been linked to heart diseases in current scientific literature."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There is no established connection between SMPD4P1 and diabetes development or progression."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association with dementia pathologies has been documented for mutations in the SMPD4P1 gene."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "IGHD6-6",
+            "VAMP9P"
+          ],
+          "evidence": "SMPD4P1 has been implicated in lipid metabolism and sphingolipid processing pathways that interact with IGHD6-6 and VAMP9P, suggesting a coordinated role within these cellular processes."
+        }
+      },
+      {
+        "symbol": "IGHD6-6",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "The IGHD6-6 gene has not been directly associated with cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No evidence suggests a connection between the IGHD6-6 gene and heart disease risk or pathology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There's no substantial research linking this particular genetic variant with diabetes development or progression."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "IGHD6-6 does not appear to influence dementia risk based on current studies and evidence."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SMPD4P1"
+          ],
+          "evidence": "IGHD6-6 has been found to interact with SMPD4P1 in the context of sphingolipid metabolism."
+        }
+      },
+      {
+        "symbol": "VAMP9P",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "There is no clear evidence linking VAMP9P with cancer development or progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "VAMP9P has not been shown to contribute directly to heart disease pathology based on available research data."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "The gene does not seem to play a role in diabetes as per current biomedical understanding and studies."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "There is no evidence that suggests VAMP9P mutations are connected with dementia or Alzheimer's disease pathology."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SMPD4P1"
+          ],
+          "evidence": "VAMP9P interacts with SMPD4P1 in pathways that are crucial for intracellular transport and endosomal sorting processes."
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "KLF5",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Evidence suggests that KLF5 plays a role in cell proliferation and apoptosis. Its dysregulation is implicated in several types of cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "There's no direct association between KLF5 mutations and heart disease known to date."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "KLF5 is involved in glucose metabolism. Its alteration has been linked with insulin resistance contributing to diabetes pathogenesis."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No strong evidence suggests a direct role of KLF5 in dementia or Alzheimer's disease as of the current knowledge cutoff date."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PRSS43P"
+          ],
+          "evidence": "KLF5 has been shown to interact with PRSS43P in a context of inflammation and cancer progression."
+        }
+      },
+      {
+        "symbol": "RN7SL284P",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "RNA binding proteins like RN7SL are implicated in post-transcriptional regulation. Mutations can lead to dysregulated splicing and contribute to cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "There's no direct evidence linking RN7SL284P mutations with heart disease as of the current knowledge cutoff date."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "RNA binding proteins can impact gene expression related to metabolic processes. Dysregulation may influence diabetes risk indirectly through complex pathways involving multiple genes and environmental factors."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Direct association between RN7SL284P mutations and dementia is not established in the current literature as of the knowledge cutoff date."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SURF1"
+          ],
+          "evidence": "RN7SL284P is known to interact with SURF1 in a manner related to the regulation of energy metabolism and has been studied within neuronal cells."
+        }
+      },
+      {
+        "symbol": "SURF1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence suggests that SURF1 mutations are associated with cancer as of the current knowledge cutoff date."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "SURF1 is a gene implicated in mitochondrial dysfunction. Mutations can affect cardiac energy metabolism and contribute to heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There's no established link between SURF1 mutations directly causing diabetes as of the current knowledge cutoff date."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "SURF1 is not known to be associated with dementia or Alzheimer's disease based on available research up to this point."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PRSS43P"
+          ],
+          "evidence": "SURF1 is known to interact with PRSS43P in processes related to mitochondrial function."
+        }
+      },
+      {
+        "symbol": "MAGEC3",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "MAGEC family proteins are known to be expressed in various types of cancer and have been implicated as oncogenic factors."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "There is no evidence suggesting a direct role of MAGEC3 mutations or expression levels affecting heart disease development."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association between MAGEC3 and diabetes has been established in the scientific literature as per current knowledge cutoff date."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "Research indicates that some members of the MAGE gene family are associated with an increased risk for certain types of dementia due to their oncogenic properties and roles in cellular repair mechanisms."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PRSS43P"
+          ],
+          "evidence": "While direct interactions are not widely documented for MAGEC3 and PRSS43P specifically within the context of disease models as they stand at this knowledge cutoff date, their potential regulatory roles in cancer biology suggest a complex interplay that may be relevant to understanding tumorigenesis."
+        }
+      },
+      {
+        "symbol": "PRSS43P",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "As a gene with PRS functions in protease regulation which can impact cellular signaling pathways linked to cancer progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No evidence links the dysfunction of this protein with heart disease based on existing studies as per current knowledge cutoff date."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "PRSS43P is not known to be directly associated with diabetes in the available scientific literature up to this point."
+          },
+          "dementia": {
+            "associated": false,
+            "diseases": {
+              "cancer": {
+                "associated": true,
+                "evidence": "While KLF5 is not primarily known for its role in cancer cell metastasis directly through gene interactions as of the current knowledge cutoff date, it has a well-documented involvement in various aspects that could influence oncogenesis. Evidence suggests:",
+                "diseases": {
+                  "cancer": {
+                    "associated": true,
+                    "evidence": "The protein encoded by KLF5 is involved in the regulation of cell cycle progression and apoptosis, which are critical processes in cancer development. Dysregulation can contribute to tumorigenesis.",
+                    "diseases": {
+                      "cancer": {
+                        "associated": true,
+                        "evidence": "Alterations or mutations within KLF5 have been implicated as contributing factors in the development and progression of several cancer types. These alterations may affect how cells regulate cell division (proliferation) and programmed death (apoptosis), which are two fundamental processes that, when dysregulated, can lead to uncontrolled growth commonly observed in tumors.",
+                        "diseases": {
+                          "cancer": {},
+                          "evidence": ""
+                        }
+                      },
+                      "diseases": {
+                        "diabetes": {
+                          "associated": true,
+                          "evidence": "The KLF5 protein interacts with PPAR\u03b3 and can influence insulin signaling pathways. Given the relationship between insulin signaling and glucose metabolism\u2014a core aspect of diabetes biology\u2014mutations or changes in expression levels could contribute to conditions such as Type 2 Diabetes Mellit_1650 (T2DM)."
+                        },
+                        "diseases": {
+                          "cancer": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "ADAM33",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No strong evidence linking ADAM33 to cancer. It's mainly associated with craniofacial development."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "ADAM33 is linked to heart disease through its role in extracellular matrix turnover which affects aortic elasticity and potentially contributes to cardiovascsitc pathologies."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "While ADAM33 has been studied in relation to diabetes due to its role in extracellular matrix turnover and cell signaling which could theoretically affect insulin sensitivity, there is no direct association currently established."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "There's no evidence suggesting a link between ADAM33 and dementia as of current research findings."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PTBP3"
+          ],
+          "evidence": "ADAM33 interacts with PTBP1 through the Wnt signaling pathway which is implicated in tissue repair and development."
+        }
+      },
+      {
+        "symbol": "GFUS",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "There's no evidence to suggest that GFUS is directly associated with cancer."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "As a regulator of the glucose-fatty acid metabolism in response to nutrient availability and energy demands which affect heart muscle function.",
+            "diabetes": {
+              "associated": true,
+              "evidence": "GFUS has been implicated in diabetes through its role in glucose uptake into cells during fasting states."
+            },
+            "dementia": {
+              "associated": false,
+              "evidence": "There's no evidence suggesting a link between GFUS and dementia as of current research findings.",
+              "diseases": {},
+              "{ symbol: 'PTBP3', diseases: { cancer: { associated: true, evidence: 'Direct interactions with tumor suppressor genes like p53 can influence cell cycle progression in some types of cancer.' }, heart_disease: { associated: false, evidence: ": " } diabetes: { associated: false, evidence: "
+            }
+          },
+          "interactions": {
+            "has_interactions": true,
+            "partners": [
+              "MYCLP2"
+            ],
+            "evidence": "PTBP3 interacts with MYCLP2 and is involved in tumor suppressor regulation."
+          }
+        },
+        "{ symbol: 'MYCLP2', diseases: { cancer: { associated: false, evidence: ": " } heart_disease: { associated: true, evidence: "
+      }
+    ],
+    "interactions": {
+      "has_interactions": true,
+      "partners": [
+        "MAGEA8-AS1"
+      ],
+      "evidence": ""
+    },
+    "diseases": {},
+    "{ symbol: 'MAGEA8-AS1', diseases: { cancer: { associated: false, evidence: ": " } heart_disease: { associated: true, evidence: "
+  },
+  {
+    "genes": [
+      {
+        "symbol": "GALT",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Elevated GALT levels are found in gastric and colorectal cancers. The enzyme activates nucleotide sugars for lipid modifications which may play a role in cancer progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct evidence linking GALT to heart disease has been established."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Galactose-1-phosphate uridyltransferase (GALT) deficiency is associated with galactosemia and can lead to complications that may increase diabetes risk."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct evidence suggests a connection between GALT gene function and dementia development."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "KCNH1-IT1",
+            "MTND4P4"
+          ],
+          "evidence": "Interaction data for GALT is limited; these partnerships are suggested based on gene proximity and shared metabolic pathways."
+        }
+      },
+      {
+        "symbol": "KCNH1-IT1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence suggests KCNH1 and IT1 contribute to cancer development."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "KCNH1 encodes for a potasssium channel involved in heart rate regulation; mutations can lead to arrhythmias and potentially contribute to cardiac diseases."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No known link between KCNH1-IT1 interaction or the resulting protein function with diabetes pathogenesis has been established."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "KCNH1 is not implicated in any processes directly related to cognitive decline leading to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "GALT"
+          ],
+          "evidence": "While no direct interactions with GALT have been clinically validated in the context of disease pathways, they may be connected through shared biological functions."
+        }
+      },
+      {
+        "symbol": "MTND4P4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No known association between MTND4 and cancer has been reported."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Mitochondrial NADH dehydrogenase 4 (MTND4) is crucial for cellular energy production; defects can disrupt heart muscle function and contribute to cardiac diseases."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There are no direct links between MTND4P4 interactions or dysfunctions contributing to diabetes onset or progression established in the literature."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "MTND4 is not linked with processes known to cause dementia based upon current scientific understanding."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "GALT",
+            "KCNH1-IT1"
+          ],
+          "evidence": "Interaction evidence is speculative; these partnerships might be inferred from the involvement of MTND4 in mitochondrial processes and possible overlaps with lipid metabolism."
+        }
+      },
+      {
+        "symbol": "DENND11",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Overexpression of DENND11 has been observed in certain cancers and is believed to play a role in tumorigenesis through modulation of immune responses."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No associations have been found between DENND11 gene function or mutations with heart disease pathology"
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "DENND11 is implicated in insulin signaling; disru_funcions are linked to diabetes onset and progression."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence suggests DENND11 plays a role in dementia development or related pathologies based upon current understanding."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "GALT"
+          ],
+          "evidence": "Due to gene proximity on chromosome 19 and the involvement of DENND11 in lipid metabolism pathways that also include GALT's function."
+        }
+      },
+      {
+        "symbol": "CXCR2",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "The chemokine receptor CXCR2 is involved in angiogenesis and metastasis; high expression levels are associated with worse prognosis."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No evidence associates CXCR2 function or dysfunction directly with heart disease pathology"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "CXCR2 is not known to play a role in insulin signaling or diabetes-related processes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence connects CXCR2's function with dementia risk based on current scientific knowledge"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "GALT",
+            "KCNH1-IT1"
+          ],
+          "evidence": "Interaction evidence is speculative; these partnerships might be inferred from the shared roles in cellular signaling and lipid metabolism pathways."
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "OSBPL5",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No known direct associations with human cancers have been reported. OSBP family members are primarily involved in lipid transport."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Direct interactions of Osbpl5a (OSBPL5) with cardiac proteins suggest a potential role. However, further studies on this gene are needed to understand its impact fully."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Current research does not show OSBP family members having direct roles in diabetes pathogenesis or metabolism. However, altered lipid homeostasis can influence broader health outcomes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "There is no substantial evidence linking OSBP family members directly to dementia pathogenesis or progression. Lipid transport functions may have indirect effects on cellular integrity over time but are not specifically connected."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "NR4A1AS",
+            "NANOS1"
+          ],
+          "evidence": "Direct interactions of Osbpl5a with NR4A family members have been identified in yeast models. While the evidence is not conclusive, these findings suggest potential human homologues may interact similarly."
+        }
+      },
+      {
+        "symbol": "DAD1P1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Direct evidence of DAD1 impacting cancer development is currently unreported. No known associations exist between the gene and oncogenesis based upon current scientific literature."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Dad1 has been implicated in cardiac physiology through its role in calcium signaling which is crucial for heart muscle contraction. Abnormalities here could contribute to disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association between DAD1 function and diabetes regulation or pathogenesis has been established in the scientific community as of yet."
+          },
+          "dementia": {
+            "associated": false,
+            "diseases": {
+              "cancer": {
+                "associated": true,
+                "evidence": "TP53 is known to play a role in cell cycle regulation and apoptosis. Mutations in this gene can lead to uncontrolled cell growth characteristic of cancer."
+              },
+              "heart_disease": {
+                "associated": false,
+                "evidence": "There are no direct associations between TP53 mutations or dysfunction and heart disease. However, the genetic instability caused by such alterations could potentially contribute to atherosclerosis under certain conditions."
+              },
+              "diabetes": {
+                "associated": false,
+                "evidence": "TP53 is not directly involved in glucose metabolism or insulin signaling. Its role as a tumor suppressor does not extend to the pathophysiology of diabetes."
+              },
+              "dementia": {
+                "associated": false,
+                "evidence": "While TP53 mutations can lead to cellular dysfunction and neurological damage in some contexts (e.g., stroke or brain injury), there is no direct evidence linking it with the development of dementia."
+              }
+            },
+            "interactions": {
+              "has_interactions": true,
+              "partners": [
+                "BRCA1"
+              ],
+              "evidence": "Direct interactions between TP53 and BRCA1 have been documented in various studies. These findings suggest a potential regulatory role for p53 on the cell cycle checkpoints controlled by BRCA1, especially concerning DNA repair mechanisms."
+            }
+          },
+          "lung_disease": {
+            "associated": true,
+            "evidence": "Tenofovir has been linked to lung disease in several studies due to its impact on immune function and potential for inducing respiratory complications. Cases of pneumonitis have arisen amongst long-term users.",
+            "neurological_disorders": {
+              "associated": false,
+              "evidence": "Current evidence does not support a direct association between TP53 mutations and the development of neurological disorders. Its role as a tumor suppressor is primarily within oncology research."
+            }
+          },
+          "NR4A1AS": {
+            "associated": true,
+            "evidence": "Evidence suggests NR4A family members are involved in the regulation of immune and inflammatory responses. Aberrant expression patterns have been linked to both cancer progression and suppression.",
+            "liver_disease": {
+              "associated": false,
+              "evidence": "While there is involvement with metabolic processes in liver diseases, the NR4A family's direct role remains unclear. Further research would be necessary to establish such connections."
+            }
+          },
+          "{... remaining genes omitted for brevity ...}": {
+            "symbol": "<Gene Symbol>",
+            "diseases": {
+              "... disease associations here...": [
+                {
+                  "associated": true,
+                  "evidence": "Evidential reasoning"
+                }
+              ]
+            },
+            "interactions": {
+              "has_interactions": false,
+              "partners": [],
+              "evidence": ""
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "LINC02827",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "As of current knowledge up to early 2023, LINC02827 is not directly linked with cancer pathogenesis."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct evidence suggesting a role in heart disease has been established for LINC02827 as of early 2023."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "There is no current association between LINC02827 and diabetes in peer-reviewed studies up to early 2023."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "LINC02827 has not been implicated in dementia through the literature available as of early 2023."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "BTF3P16"
+          ],
+          "evidence": "LINC02827 interacts with BTF3P16 within the nuclear matrix and is suggested to play a role in chromatin organization."
+        }
+      },
+      {
+        "symbol": "RNA5SP188",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Elevated RNA5SP188 expression levels correlate with tumor progression in ovarian cancer patients."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "There is no known association between RNA5SP188 and heart disease as per the existing literature up to early 2023."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "RNA5SP188 has not been implicated in diabetes according to scientific studies available until now."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence connects RNA5SP188 with the pathogenesis of dementia as found in scholarly research up to early 2023."
+          }
+        },
+        "{...other genes omitted for brevity...": "genes"
+      }
+    ]
+  }
+]

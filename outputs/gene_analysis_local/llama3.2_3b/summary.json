@@ -1,0 +1,233 @@
+{
+  "model": "llama3.2:3b",
+  "runtime_seconds": 106.259027665,
+  "manual_estimate_minutes": 200.0,
+  "summary": {
+    "total_genes": 50,
+    "disease_counts": {
+      "cancer": 11,
+      "heart_disease": 13,
+      "diabetes": 7,
+      "dementia": 5
+    },
+    "genes_with_interactions": [
+      {
+        "gene": "ARL8BP2",
+        "partners": [
+          "ARL6IP4"
+        ]
+      },
+      {
+        "gene": "LSM12P1",
+        "partners": [
+          "LSM12BP2"
+        ]
+      },
+      {
+        "gene": "KRT8",
+        "partners": [
+          "KRT14"
+        ]
+      },
+      {
+        "gene": "FANCF",
+        "partners": [
+          "FANCI",
+          "NBSL1",
+          "FANCG"
+        ]
+      },
+      {
+        "gene": "DERL1",
+        "partners": [
+          "DERL2"
+        ]
+      },
+      {
+        "gene": "ZNF774",
+        "partners": [
+          "ZNF335",
+          "ZNF703",
+          "KRT8"
+        ]
+      },
+      {
+        "gene": "SFTPC",
+        "partners": [
+          "SFTPB",
+          "ACTN1"
+        ]
+      },
+      {
+        "gene": "CRLF1",
+        "partners": [
+          "BCR"
+        ]
+      },
+      {
+        "gene": "PSMD11",
+        "partners": [
+          "PSME1",
+          "PSMA4"
+        ]
+      },
+      {
+        "gene": "ATP6V0A4",
+        "partners": [
+          "ATP6V0A3",
+          "COX10"
+        ]
+      },
+      {
+        "gene": "ATP1B3-AS1",
+        "partners": [
+          "ATP1B3",
+          "BCR"
+        ]
+      },
+      {
+        "gene": "LHFPL5",
+        "partners": [
+          "CYCSP23"
+        ]
+      },
+      {
+        "gene": "THRIL",
+        "partners": [
+          "KIF1A"
+        ]
+      },
+      {
+        "gene": "ARSLP1",
+        "partners": [
+          "SMPD4"
+        ]
+      },
+      {
+        "gene": "PRSS43P",
+        "partners": [
+          "SURF1"
+        ]
+      },
+      {
+        "gene": "KLF5",
+        "partners": [
+          "TP53"
+        ]
+      },
+      {
+        "gene": "SURF1",
+        "partners": [
+          "PRSS43P"
+        ]
+      },
+      {
+        "gene": "MAGEC3",
+        "partners": [
+          "KLF5"
+        ]
+      },
+      {
+        "gene": "ADAM33",
+        "partners": [
+          "PDGFRB"
+        ]
+      },
+      {
+        "gene": "PTBP3",
+        "partners": [
+          "TP53"
+        ]
+      },
+      {
+        "gene": "GALT",
+        "partners": [
+          "GAL",
+          "GALE",
+          "GLUT1",
+          "GLUT2",
+          "GLUT3"
+        ]
+      },
+      {
+        "gene": "KCNH1-IT1",
+        "partners": [
+          "KCNH2",
+          "KCNJ1",
+          "KCND1",
+          "KCND2"
+        ]
+      },
+      {
+        "gene": "MTND4P4",
+        "partners": [
+          "MTND1",
+          "MTND2",
+          "MTND5",
+          "MTND6",
+          "MTND7"
+        ]
+      },
+      {
+        "gene": "DENND11",
+        "partners": [
+          "DENND1",
+          "DENND2",
+          "DENND3",
+          "DENND4"
+        ]
+      },
+      {
+        "gene": "CXCR2",
+        "partners": [
+          "CXCR1",
+          "CXCR5",
+          "S100A8"
+        ]
+      },
+      {
+        "gene": "OSBPL5",
+        "partners": [
+          "TP53"
+        ]
+      },
+      {
+        "gene": "NR4A1AS",
+        "partners": [
+          "NR4A1"
+        ]
+      },
+      {
+        "gene": "NANOS1",
+        "partners": [
+          "TP53"
+        ]
+      },
+      {
+        "gene": "TLE2",
+        "partners": [
+          "TP53"
+        ]
+      },
+      {
+        "gene": "LINC02827",
+        "partners": [
+          "SAXO3"
+        ]
+      },
+      {
+        "gene": "SAXO3",
+        "partners": [
+          "LINC02827"
+        ]
+      },
+      {
+        "gene": "ENOPH1",
+        "partners": [
+          "BTF3P16",
+          "SAXO3"
+        ]
+      }
+    ]
+  }
+}

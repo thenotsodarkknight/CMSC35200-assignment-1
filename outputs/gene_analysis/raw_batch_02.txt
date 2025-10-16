@@ -1,0 +1,264 @@
+{
+  "genes": [
+    {
+      "symbol": "CRLF1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No strong evidence linking CRLF1 to cancer. CRLF1 is involved in the regulation of the immune system."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between CRLF1 and heart disease. CRLF1 is primarily involved in the immune system."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between CRLF1 and diabetes. CRLF1 is primarily involved in the immune system."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between CRLF1 and dementia. CRLF1 is primarily involved in the immune system."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "SYNGR3",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between SYNGR3 and cancer. SYNGR3 is involved in synaptic function."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between SYNGR3 and heart disease. SYNGR3 is primarily involved in the nervous system."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between SYNGR3 and diabetes. SYNGR3 is primarily involved in the nervous system."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between SYNGR3 and dementia. SYNGR3 is primarily involved in the nervous system."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "PSMD11",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "PSMD11 is involved in the regulation of the proteasome, which is often dysregulated in cancer. Mutations in PSMD11 have been found in various types of cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between PSMD11 and heart disease. PSMD11 is primarily involved in protein degradation."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between PSMD11 and diabetes. PSMD11 is primarily involved in protein degradation."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between PSMD11 and dementia. PSMD11 is primarily involved in protein degradation."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "ATP6V0A4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between ATP6V0A4 and cancer. ATP6V0A4 is involved in the regulation of pH in the cell."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between ATP6V0A4 and heart disease. ATP6V0A4 is primarily involved in pH regulation."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between ATP6V0A4 and diabetes. ATP6V0A4 is primarily involved in pH regulation."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between ATP6V0A4 and dementia. ATP6V0A4 is primarily involved in pH regulation."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "ATP1B3-AS1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between ATP1B3-AS1 and cancer. ATP1B3-AS1 is a non-coding RNA."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between ATP1B3-AS1 and heart disease. ATP1B3-AS1 is primarily involved in the regulation of gene expression."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between ATP1B3-AS1 and diabetes. ATP1B3-AS1 is primarily involved in the regulation of gene expression."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between ATP1B3-AS1 and dementia. ATP1B3-AS1 is primarily involved in the regulation of gene expression."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "CYCSP23",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between CYCSP23 and cancer. CYCSP23 is a pseudogene."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between CYCSP23 and heart disease. CYCSP23 is a pseudogene."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between CYCSP23 and diabetes. CYCSP23 is a pseudogene."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between CYCSP23 and dementia. CYCSP23 is a pseudogene."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "KIF1A",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between KIF1A and cancer. KIF1A is involved in the regulation of microtubules."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between KIF1A and heart disease. KIF1A is primarily involved in the nervous system."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between KIF1A and diabetes. KIF1A is primarily involved in the nervous system."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "KIF1A is involved in the regulation of microtubules, which is often dysregulated in neurodegenerative diseases. Mutations in KIF1A have been found in patients with hereditary spastic paraplegia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "LHFPL5",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between LHFPL5 and cancer. LHFPL5 is involved in the regulation of the inner ear."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between LHFPL5 and heart disease. LHFPL5 is primarily involved in the inner ear."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between LHFPL5 and diabetes. LHFPL5 is primarily involved in the inner ear."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between LHFPL5 and dementia. LHFPL5 is primarily involved in the inner ear."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "RPL15P6",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between RPL15P6 and cancer. RPL15P6 is a pseudogene."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between RPL15P6 and heart disease. RPL15P6 is a pseudogene."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between RPL15P6 and diabetes. RPL15P6 is a pseudogene."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between RPL15P6 and dementia. RPL15P6 is a pseudogene."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    },
+    {
+      "symbol": "THRIL",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between THRIL and cancer. THRIL is involved in the regulation of the immune system."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between THRIL and heart disease. THRIL is primarily involved in the immune system."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association between THRIL and diabetes. THRIL is primarily involved in the immune system."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association between THRIL and dementia. THRIL is primarily involved in the immune system."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes in the list."
+      }
+    }
+  ]
+}

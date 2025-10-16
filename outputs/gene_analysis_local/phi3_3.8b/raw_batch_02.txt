@@ -1,0 +1,272 @@
+{
+  "genes": [
+    {
+      "symbol": "KRT8",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence suggests that KRT8 is associated with cancer."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "KRT8 mutations can lead to skin-related cardiovascged conditions due to the crucial role of keratin in heart tissue integrity and function. However, direct causation has not been fully established."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between KRT8 mutations or expression levels and the development of diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "KRT8 does not play a role in brain tissue maintenance to an extent that its alteration would be directly linked with dementia risk or pathology."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["DERL1"],
+        "evidence": "KRT8 and DERL1 have been shown to interact within the epidermal differentiation pathway."
+      }
+    },
+    {
+      "symbol": "FANCF",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+ 
+
+"evidence": "The FANCF gene is directly associated with cancer as it plays a crucial role in DNA damage response and repair mechanisms. Mutations or dysfunction can lead to genomic instability that promotes tumorigenesis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no established connection between FANCF gene activity and heart disease development."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence suggests a link between the function of FANCF in DNA repair pathways and diabetes mellitsus or metabolism."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "While genetic factors can contribute to neurological conditions like dementia, FANCF is not specifically implicated in brain tissue health and function with respect to cognitive decline."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["DERL1"],
+        "evidence": "FANCF has been found to interact within the DNA damage response pathway alongside DERL1 and other proteins."
+      }
+    },
+    {
+      "symbol": "DERL1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+ 
+"evidence": "Derlin-1 is implicated in cancer as it facilitates the nuclear localization of unfolded proteins and endoplasmic reticulum stress response which can contribute to oncogenesis when dysregulated.",
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Current research does not establish a direct link between DERL1 mutations or expression levels and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "DERL1's primary functions are within the endoplasmic reticulum stress response rather than glucose metabolism which is central to diabetes pathology."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There has been no established connection between DERL1 dysfunction and the development of dementia or Alzheimer's disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["DERL1", "KRT8"],
+        "evidence": "Derlin-1 has been shown to interact with DERL1 and Keratin (such as KRT8) in the context of endoplasmic reticulum stress response."
+      }
+    },
+   
+ 
+    
+   
+  
+    
+   
+   
+   
+    
+      
+   
+    "SFTPC": {
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence suggests that SFTPC is directly associated with the development or progression of cancer."
+        },
+        "heart_disease": {
+          "associated": true,
+ 
+"evidence": "Alterations in SFTPC are linked to interstitial lung diseases which can exacerbate heart conditions due to compromised oxygen exchange.",
+        "diabetes": {
+          "associated": false,
+          "evidence": "SFTPC's role is primarily associated with the integrity of alveolar-capillary barriers in lungs and not directly related to diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There are no known interactions or associations between SFTPC function/expression levels and dementia pathology."
+        }
+      },
+      
+   
+  
+    
+ 
+"interactions": {
+        
+            "has_interactions": true,
+            
+           "partners": ["SFTPC"],
+            
+          "evidence": "Although SFTPC does not directly interact with the genes listed here within its primary lung function pathway."
+        }  
+      },
+   
+ 
+    
+      
+        
+      
+      
+   
+ 
+"DERL1": {
+      "diseases": {
+        "cancer": {
+          "associated": true,
+ 
+"evidence": "Derlin-1 is implicated in cancer as it facilitates the nuclear localization of unfolded proteins and endoplasmic reticulum stress response which can contribute to oncogenesis when dysregulated.",
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Current research does not establish a direct link between DERL1 mutations or expression levels and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "DERL1's primary functions are within the endoplasmic reticulum stress response rather than glucose metabolism which is central to diabetes pathology."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There has been no established connection between DERL1 dysfunction and the development of dementia or Alzheimer's disease."
+        }
+      },
+      
+   
+  
+    
+ 
+"interactions": {
+        
+            "has_interactions": true,
+            
+           "partners": ["DERL1", "KRT8"],
+            
+          "evidence": "Derlin-1 has been shown to interact with DERL1 and Keratin (such as KRT8) in the context of endoplasmic reticulum stress response."
+        }  
+      },
+   
+ 
+    
+      
+        
+      
+      
+   
+"KRT8": {
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence suggests that KRT8 is associated with cancer."
+        },
+        "heart_disease": {
+          "associated": true,
+ 
+"evidence": "KRT8 mutations can lead to skin-related cardiovascular conditions due to the crucial role of keratin in heart tissue integrity and function. However, direct causation has not been fully established.",
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no known association between KRT8 mutations or expression levels and the development of diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "KRT8 does not play a role in brain tissue maintenance to an extent that its alteration would be directly linked with dementia risk or pathology."
+        }
+      },
+      
+   
+  
+    
+ 
+"interactions": {
+        
+            "has_interactions": true,
+            
+           "partners": ["DERL1"],
+            
+          "evidence": "KRT8 and DERL1 have been shown to interact within the epidermal differentiation pathway."
+        }  
+      },
+   
+ 
+    
+      
+        
+      
+      
+   
+"FANCF": {
+      "diseases": {
+        "cancer": {
+          "associated": true,
+ 
+"evidence": "The FANCF gene is directly associated with cancer as it plays a crucial role in DNA damage response and repair mechanisms. Mutations or dysfunction can lead to genomic instability that promotes tumorigenesis.",
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no established connection between FANCF gene activity and heart disease development."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence suggests a link between the function of FANCF in DNA repair pathways and diabetes mellitus or metabolism."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "While genetic factors can contribute to neurological conditions like dementia, FANCF is not specifically implicated in brain tissue health and function with respect to cognitive decline."
+        }
+      },
+      
+   
+  
+    
+ 
+"interactions": {
+        
+            "has_interactions": true,
+            
+           "partners": ["DERL1"],
+            
+          "evidence": "FANCF has been found to interact within the DNA damage response pathway alongside DERL1 and other proteins."
+        }  
+      } 
+   
+ 
+    
+      
+}
+
+
+
+
+   
+        
+          
+    
+      
+   
+            
+           
+         
+               
+                                              
+                                

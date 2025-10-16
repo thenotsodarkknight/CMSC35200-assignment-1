@@ -1,0 +1,71 @@
+{
+  "genes": [
+    {
+      "symbol": "ADAM33",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No strong evidence linking ADAM33 to cancer. It's mainly associated with craniofacial development."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "ADAM33 is linked to heart disease through its role in extracellular matrix turnover which affects aortic elasticity and potentially contributes to cardiovascsitc pathologies."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "While ADAM33 has been studied in relation to diabetes due to its role in extracellular matrix turnover and cell signaling which could theoretically affect insulin sensitivity, there is no direct association currently established."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There's no evidence suggesting a link between ADAM33 and dementia as of current research findings."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PTBP3"
+        ],
+        "evidence": "ADAM33 interacts with PTBP1 through the Wnt signaling pathway which is implicated in tissue repair and development."
+      }
+    },
+    {
+      "symbol": "GFUS",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "There's no evidence to suggest that GFUS is directly associated with cancer."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "As a regulator of the glucose-fatty acid metabolism in response to nutrient availability and energy demands which affect heart muscle function.",
+        "diabetes": {
+          "associated": true,
+          "evidence": "GFUS has been implicated in diabetes through its role in glucose uptake into cells during fasting states."
+        },
+      "dementia": {
+        "associated": false,
+        "evidence": "There's no evidence suggesting a link between GFUS and dementia as of current research findings.",
+      "diseases": {}, 
+    "{ symbol: 'PTBP3', diseases: { cancer: { associated: true, evidence: 'Direct interactions with tumor suppressor genes like p53 can influence cell cycle progression in some types of cancer.' }, heart_disease: { associated: false, evidence: ":" } diabetes: { associated: false, evidence: " 
+}
+        },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "MYCLP2"
+        ],
+        "evidence": "PTBP3 interacts with MYCLP2 and is involved in tumor suppressor regulation."
+      }
+    },
+    "{ symbol: 'MYCLP2', diseases: { cancer: { associated: false, evidence: ":" } heart_disease: { associated: true, evidence: " 
+}
+        ],
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "MAGEA8-AS1"
+        ],
+        "evidence": ""},
+      "diseases": {},
+    "{ symbol: 'MAGEA8-AS1', diseases: { cancer: { associated: false, evidence: ":" } heart_disease: { associated: true, evidence: " 
+}

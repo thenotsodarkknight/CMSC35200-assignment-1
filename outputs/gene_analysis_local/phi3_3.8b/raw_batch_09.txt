@@ -1,0 +1,105 @@
+{
+  "genes": [
+    {
+      "symbol": "OSBPL5",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known direct associations with human cancers have been reported. OSBP family members are primarily involved in lipid transport."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Direct interactions of Osbpl5a (OSBPL5) with cardiac proteins suggest a potential role. However, further studies on this gene are needed to understand its impact fully."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Current research does not show OSBP family members having direct roles in diabetes pathogenesis or metabolism. However, altered lipid homeostasis can influence broader health outcomes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no substantial evidence linking OSBP family members directly to dementia pathogenesis or progression. Lipid transport functions may have indirect effects on cellular integrity over time but are not specifically connected."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "NR4A1AS", 
+          "NANOS1"
+        ],
+        "evidence": "Direct interactions of Osbpl5a with NR4A family members have been identified in yeast models. While the evidence is not conclusive, these findings suggest potential human homologues may interact similarly."
+      }
+    },
+    {
+      "symbol": "DAD1P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Direct evidence of DAD1 impacting cancer development is currently unreported. No known associations exist between the gene and oncogenesis based upon current scientific literature."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Dad1 has been implicated in cardiac physiology through its role in calcium signaling which is crucial for heart muscle contraction. Abnormalities here could contribute to disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association between DAD1 function and diabetes regulation or pathogenesis has been established in the scientific community as of yet."
+        },
+        "dementia": {
+          "associated": false,
+ 
+                    "diseases": {
+            "cancer": {
+              "associated": true,
+              "evidence": "TP53 is known to play a role in cell cycle regulation and apoptosis. Mutations in this gene can lead to uncontrolled cell growth characteristic of cancer."
+            },
+            "heart_disease": {
+              "associated": false,
+              "evidence": "There are no direct associations between TP53 mutations or dysfunction and heart disease. However, the genetic instability caused by such alterations could potentially contribute to atherosclerosis under certain conditions."
+            },
+            "diabetes": {
+              "associated": false,
+              "evidence": "TP53 is not directly involved in glucose metabolism or insulin signaling. Its role as a tumor suppressor does not extend to the pathophysiology of diabetes."
+            },
+            "dementia": {
+              "associated": false,
+              "evidence": "While TP53 mutations can lead to cellular dysfunction and neurological damage in some contexts (e.g., stroke or brain injury), there is no direct evidence linking it with the development of dementia."
+            }
+          },
+          "interactions": {
+            "has_interactions": true,
+            "partners": [
+              "BRCA1"
+            ],
+            "evidence": "Direct interactions between TP53 and BRCA1 have been documented in various studies. These findings suggest a potential regulatory role for p53 on the cell cycle checkpoints controlled by BRCA1, especially concerning DNA repair mechanisms."
+          }
+        },
+        "lung_disease": {
+            "associated": true,
+            "evidence": "Tenofovir has been linked to lung disease in several studies due to its impact on immune function and potential for inducing respiratory complications. Cases of pneumonitis have arisen amongst long-term users.",
+        "neurological_disorders": {
+            "associated": false,
+            "evidence": "Current evidence does not support a direct association between TP53 mutations and the development of neurological disorders. Its role as a tumor suppressor is primarily within oncology research."
+        }
+      },
+    "NR4A1AS": {
+            "associated": true,
+            "evidence": "Evidence suggests NR4A family members are involved in the regulation of immune and inflammatory responses. Aberrant expression patterns have been linked to both cancer progression and suppression.",
+        "liver_disease": {
+            "associated": false,
+            "evidence": "While there is involvement with metabolic processes in liver diseases, the NR4A family's direct role remains unclear. Further research would be necessary to establish such connections."
+        }},
+    "{... remaining genes omitted for brevity ...}": { 
+      "symbol": "<Gene Symbol>",
+      "diseases": {  
+         "... disease associations here...": [ {"associated": true, "evidence": "Evidential reasoning"} ] },
+       "interactions": {   
+        "has_interactions": false, 
+        "partners": [],    
+        "evidence": ""     
+       }  
+     }
+    }
+  }
+]
+
+}

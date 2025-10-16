@@ -1,0 +1,138 @@
+{
+  "genes": [
+    {
+      "symbol": "ADAM33",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence, primarily associated with asthma and lung function"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involved in cardiac fibrosis and inflammation"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PDGFRB"
+        ],
+        "evidence": "Direct interaction, important for ADAM33's function in cardiovascular diseases"
+      }
+    },
+    {
+      "symbol": "GFUS",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct or indirect association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "PTBP3",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Involved in cancer progression and metastasis"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TP53"
+        ],
+        "evidence": "Important for regulating cell growth and proliferation"
+      }
+    },
+    {
+      "symbol": "MYCLP2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct or indirect association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "MAGEA8-AS1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Involved in cancer cell growth and proliferation"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence of association"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [],
+        "evidence": ""
+      }
+    }
+  ]
+}

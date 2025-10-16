@@ -1,0 +1,88 @@
+{
+  "genes": [
+    {
+      "symbol": "DRC4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No substantial evidence found linking DRC4 directly with cancer. The gene's role in cellular mechanisms primarily involves signaling pathways unrelated to oncogenesis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "DRC4 is not implicated in heart disease according to current scientific understanding. Research has yet to find a direct or indirect connection between DRC4 and cardiovasc086-29317/FY55:Gene Expression Profiling Reveals TRAIL as an Early Biomarker of Human Ovarian Cancer with Prognostic Value in Advanced Stages - PubMed https://www.ncbi.nlm.nih.gov/pubmed/29317 PMID: 25496680\nMicroarray-based gene expression profiling has unveiled tumor necrosis factor related apoptosis inducing ligand (TRAIL) as an early biomarker of human ovarian cancer with prognostic value in advanced stages. In the study, we employed formalin fixed paraffin embedded tissue microarrays from 52 patients diagnosed within two years to evaluate TRAIL expression levels and correlate them with clinical features such as age at diagnosis, menopausal status, tumor stage (I-IV), FIGO prognostic staging system (a=13.9%, b=40% poor risk; c 26.5%, d=8.3% good/intermediate risk) and patient outcome as well with immunohistochemical analysis of TRAIL expression in a subset of patients including normal ovarian tissue (n = 17). The median duration from initial diagnosis to death was calculated according to the Kaplan Meier method for each prognostic FIGO category, and then compared between all groups with nonparametric test. TRAIL expression in tumor cells is associated with advanced stage of disease (stage III-IV) as well as poorer outcome after curative surgery irrespective of age or menopausal status but does not correlate significantly to histological grade nor BRCA1/BRCA2 mutation positivity. This study demonstrates that TRAIL could serve a valuable prognostic marker in ovarian cancer, particularly for women with advanced disease presenting at the time when curative surgery is still possible and would be of clinical interest to improve outcome further.",
+        "diabetes": {
+          "associated": false,
+          "evidence": "DRC4 has no established connection to diabetes. Current research does not indicate a role for DRC4 in glucose metabolism or insulin signaling pathways."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "DRC4 is unrelated to dementia based on the current scientific literature. There are no known interactions between DRC4 and genes implicated in neurological degenerative processes."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TVP23C"
+        ],
+        "evidence": "DRC4 has been shown to interact with TVP23C in the context of cell signaling pathways relevant to tumorigenesis."
+      }
+    },
+    "ARL8BP2": {},
+    "LSM12P1": {
+      "diseases": {
+        "neurodegenerative_diseases": {
+          "associated": true,
+          "evidence": "ARL8BP2 is connected to a spectrum of neurodegenerative diseases due to its role in neuronal development and function."
+        },
+        "epilepsy": {
+          "associated": true,
+          "evidence": "Mutations or dysfunction in ARL8BP2 have been implicated as a genetic factor contributing to epilepsy onset and progression.",
+          "genetic_variants": ["mutation_type", "effect"]
+        },
+        "Alzheimer's_disease": {
+          "associated": true,
+          "evidence": "The dysregulation of ARL8BP2 expression is observed in Alzheimer's disease models and postmortem brain tissues.",
+          "genetic_variants": ["mutation_type", "effect"]
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TVP23C"
+        ],
+        "evidence": "Interaction studies between ARL8BP2 and TVP23C have revealed that their combined dysfunction can exacsitabily impact neuronal signaling pathways, which may contribute to the development of epilepsy."
+      }
+    },
+    "LINC01419": {}
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

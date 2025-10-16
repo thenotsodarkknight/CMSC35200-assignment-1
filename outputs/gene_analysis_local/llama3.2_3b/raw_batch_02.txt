@@ -1,0 +1,149 @@
+{
+  "genes": [
+    {
+      "symbol": "KRT8",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association with cancer"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involved in the structure of cardiac cells, alterations may contribute to disease"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No established link"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "KRT14"
+        ],
+        "evidence": "Direct physical interactions"
+      }
+    },
+    {
+      "symbol": "FANCF",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Mutations can disrupt DNA repair, leading to cancer development"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No established link"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association with dementia"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "FANCI",
+          "NBSL1",
+          "FANCG"
+        ],
+        "evidence": "Part of the FANC pathway for DNA repair"
+      }
+    },
+    {
+      "symbol": "DERL1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No established link to cancer development"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involvement in the regulation of cardiac cell growth"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association with dementia"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "DERL2"
+        ],
+        "evidence": "Direct physical interactions"
+      }
+    },
+    {
+      "symbol": "ZNF774",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association with cancer development"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involvement in the regulation of cardiac cell growth and differentiation"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No established link to diabetes"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association with dementia"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "ZNF335",
+          "ZNF703",
+          "KRT8"
+        ],
+        "evidence": "Transcriptional regulation and physical interactions"
+      }
+    },
+    {
+      "symbol": "SFTPC",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No established link to cancer development"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involvement in the regulation of cardiac cell growth and differentiation"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association with dementia"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SFTPB",
+          "ACTN1"
+        ],
+        "evidence": "Transcriptional regulation and cell signaling interactions"
+      }
+    }
+  ]
+}

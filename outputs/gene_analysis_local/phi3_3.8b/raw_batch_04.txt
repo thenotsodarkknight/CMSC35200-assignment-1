@@ -1,0 +1,29 @@
+{
+  "genes": [
+    {
+      "symbol": "CYCSP23",
+      "diseases": {},
+      "interactions": {}
+    },
+    {
+      "symbol": "KIF1A",
+      "diseases": {},
+      "interactions": {}
+    },
+    {
+      "symbol": "LHFPL5",
+      "diseases": {},
+      "interactions": {}
+    },
+    {
+      "symbol": "RPL15P6",
+      "diseases": {},
+      "interactions": {}
+    },
+    {
+      "symbol": "THRIL",
+      "diseases": {},
+      "interactions": {}
+    }
+  ]
+}

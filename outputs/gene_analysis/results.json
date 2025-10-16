@@ -1,0 +1,452 @@
+[
+  {
+    "gene": "TVP23C",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DRC4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ARL8BP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LSM12P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LINC01419",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "LINC01419 is a long non-coding RNA that has been implicated in various types of cancer, including breast and lung cancer. Its expression is often upregulated in cancer cells. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KRT8",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "KRT8 is a type II keratin that is often overexpressed in various types of cancer, including liver and breast cancer. Its expression is associated with cancer progression and metastasis. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "FANCF",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "FANCF is a component of the Fanconi anemia pathway, which is involved in DNA repair. Mutations in FANCF are associated with an increased risk of cancer, particularly breast and ovarian cancer. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DERL1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "DERL1 is involved in the unfolded protein response and has been implicated in various types of cancer, including breast and lung cancer. Its expression is often upregulated in cancer cells. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ZNF774",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SFTPC",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Limited information available. No known association with heart disease. Limited information available. No known association with diabetes. Limited information available. No known association with dementia. Limited information available.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "CRLF1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No strong evidence linking CRLF1 to cancer. CRLF1 is involved in the regulation of the immune system. No known association between CRLF1 and heart disease. CRLF1 is primarily involved in the immune system. No known association between CRLF1 and diabetes. CRLF1 is primarily involved in the immune system. No known association between CRLF1 and dementia. CRLF1 is primarily involved in the immune system.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SYNGR3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between SYNGR3 and cancer. SYNGR3 is involved in synaptic function. No known association between SYNGR3 and heart disease. SYNGR3 is primarily involved in the nervous system. No known association between SYNGR3 and diabetes. SYNGR3 is primarily involved in the nervous system. No known association between SYNGR3 and dementia. SYNGR3 is primarily involved in the nervous system.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PSMD11",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "PSMD11 is involved in the regulation of the proteasome, which is often dysregulated in cancer. Mutations in PSMD11 have been found in various types of cancer. No known association between PSMD11 and heart disease. PSMD11 is primarily involved in protein degradation. No known association between PSMD11 and diabetes. PSMD11 is primarily involved in protein degradation. No known association between PSMD11 and dementia. PSMD11 is primarily involved in protein degradation.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ATP6V0A4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between ATP6V0A4 and cancer. ATP6V0A4 is involved in the regulation of pH in the cell. No known association between ATP6V0A4 and heart disease. ATP6V0A4 is primarily involved in pH regulation. No known association between ATP6V0A4 and diabetes. ATP6V0A4 is primarily involved in pH regulation. No known association between ATP6V0A4 and dementia. ATP6V0A4 is primarily involved in pH regulation.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ATP1B3-AS1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between ATP1B3-AS1 and cancer. ATP1B3-AS1 is a non-coding RNA. No known association between ATP1B3-AS1 and heart disease. ATP1B3-AS1 is primarily involved in the regulation of gene expression. No known association between ATP1B3-AS1 and diabetes. ATP1B3-AS1 is primarily involved in the regulation of gene expression. No known association between ATP1B3-AS1 and dementia. ATP1B3-AS1 is primarily involved in the regulation of gene expression.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "CYCSP23",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between CYCSP23 and cancer. CYCSP23 is a pseudogene. No known association between CYCSP23 and heart disease. CYCSP23 is a pseudogene. No known association between CYCSP23 and diabetes. CYCSP23 is a pseudogene. No known association between CYCSP23 and dementia. CYCSP23 is a pseudogene.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KIF1A",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "No known association between KIF1A and cancer. KIF1A is involved in the regulation of microtubules. No known association between KIF1A and heart disease. KIF1A is primarily involved in the nervous system. No known association between KIF1A and diabetes. KIF1A is primarily involved in the nervous system. KIF1A is involved in the regulation of microtubules, which is often dysregulated in neurodegenerative diseases. Mutations in KIF1A have been found in patients with hereditary spastic paraplegia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LHFPL5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between LHFPL5 and cancer. LHFPL5 is involved in the regulation of the inner ear. No known association between LHFPL5 and heart disease. LHFPL5 is primarily involved in the inner ear. No known association between LHFPL5 and diabetes. LHFPL5 is primarily involved in the inner ear. No known association between LHFPL5 and dementia. LHFPL5 is primarily involved in the inner ear.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RPL15P6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between RPL15P6 and cancer. RPL15P6 is a pseudogene. No known association between RPL15P6 and heart disease. RPL15P6 is a pseudogene. No known association between RPL15P6 and diabetes. RPL15P6 is a pseudogene. No known association between RPL15P6 and dementia. RPL15P6 is a pseudogene.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "THRIL",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between THRIL and cancer. THRIL is involved in the regulation of the immune system. No known association between THRIL and heart disease. THRIL is primarily involved in the immune system. No known association between THRIL and diabetes. THRIL is primarily involved in the immune system. No known association between THRIL and dementia. THRIL is primarily involved in the immune system.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ARSLP1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SMPD4P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "IGHD6-6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "VAMP9P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SF3B5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PRSS43P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KLF5",
+    "has_cancer_link": true,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "KLF5 is involved in cell proliferation and differentiation, and its dysregulation has been linked to various types of cancer. KLF5 acts as a tumor suppressor in some contexts and an oncogene in others. KLF5 plays a role in cardiovascular development and disease, and its expression is altered in atherosclerosis and cardiac hypertrophy. KLF5 regulates vascular smooth muscle cell proliferation and differentiation. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RN7SL284P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SURF1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. Further research is needed. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MAGEC3",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "MAGEC3 is a member of the melanoma antigen gene (MAGE) family, which is often overexpressed in various types of cancer. MAGEC3 may play a role in tumorigenesis and cancer progression. No known association with heart disease. Further research is needed. No known association with diabetes. Further research is needed. No known association with dementia. Further research is needed.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ADAM33",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "ADAM33 is primarily associated with asthma and airway remodeling, not cancer. No direct evidence links ADAM33 to heart disease. No known association between ADAM33 and diabetes. No known association between ADAM33 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "GFUS",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between GFUS and cancer. No known association between GFUS and heart disease. No known association between GFUS and diabetes. No known association between GFUS and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PTBP3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between PTBP3 and cancer. No known association between PTBP3 and heart disease. No known association between PTBP3 and diabetes. No known association between PTBP3 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MYCLP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between MYCLP2 and cancer. No known association between MYCLP2 and heart disease. No known association between MYCLP2 and diabetes. No known association between MYCLP2 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MAGEA8-AS1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "MAGEA8-AS1 is a long non-coding RNA associated with various cancers, including breast and lung cancer. No known association between MAGEA8-AS1 and heart disease. No known association between MAGEA8-AS1 and diabetes. No known association between MAGEA8-AS1 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "GALT",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between GALT and cancer. No known association between GALT and heart disease. No known association between GALT and diabetes. No known association between GALT and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KCNH1-IT1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between KCNH1-IT1 and cancer. No known association between KCNH1-IT1 and heart disease. No known association between KCNH1-IT1 and diabetes. No known association between KCNH1-IT1 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MTND4P4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between MTND4P4 and cancer. No known association between MTND4P4 and heart disease. No known association between MTND4P4 and diabetes. No known association between MTND4P4 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DENND11",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between DENND11 and cancer. No known association between DENND11 and heart disease. No known association between DENND11 and diabetes. No known association between DENND11 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "CXCR2",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "CXCR2 is associated with various cancers, including breast and lung cancer, and plays a role in tumor progression and metastasis. No known association between CXCR2 and heart disease. No known association between CXCR2 and diabetes. No known association between CXCR2 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "OSBPL5",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "OSBPL5 has been implicated in the regulation of cell growth and proliferation, and its overexpression has been linked to various types of cancer. Studies have shown that OSBPL5 promotes cancer cell survival and metastasis. There is no solid evidence linking OSBPL5 to heart disease. Further research is needed to determine its potential role. There is no known association between OSBPL5 and diabetes. Its primary function is related to lipid metabolism and cell growth. There is no known association between OSBPL5 and dementia. Its primary function is related to lipid metabolism and cell growth.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DAD1P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease. DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease. DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease. DAD1P1 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "NR4A1AS",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "NR4A1AS is a long non-coding RNA and its function is not well understood. There is no solid evidence linking it to cancer. There is no known association between NR4A1AS and heart disease. Further research is needed to determine its potential role. There is no known association between NR4A1AS and diabetes. Further research is needed to determine its potential role. There is no known association between NR4A1AS and dementia. Further research is needed to determine its potential role.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "NANOS1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "NANOS1 has been implicated in the regulation of cell growth and proliferation, and its overexpression has been linked to various types of cancer. Studies have shown that NANOS1 promotes cancer cell survival and metastasis. There is no solid evidence linking NANOS1 to heart disease. Further research is needed to determine its potential role. There is no known association between NANOS1 and diabetes. Its primary function is related to germ cell development. There is no known association between NANOS1 and dementia. Its primary function is related to germ cell development.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "TLE2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "TLE2 is a transcriptional co-repressor and its function is not well understood. There is no solid evidence linking it to cancer. There is no known association between TLE2 and heart disease. Further research is needed to determine its potential role. There is no known association between TLE2 and diabetes. Further research is needed to determine its potential role. There is no known association between TLE2 and dementia. Further research is needed to determine its potential role.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LINC02827",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "LINC02827 is a long non-coding RNA and its function is not well understood. There is no solid evidence linking it to cancer. There is no known association between LINC02827 and heart disease. Further research is needed to determine its potential role. There is no known association between LINC02827 and diabetes. Further research is needed to determine its potential role. There is no known association between LINC02827 and dementia. Further research is needed to determine its potential role.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "BTF3P16",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease. BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease. BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease. BTF3P16 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RNA5SP188",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "RNA5SP188 is a small nuclear RNA and its function is not well understood. There is no solid evidence linking it to cancer. There is no known association between RNA5SP188 and heart disease. Further research is needed to determine its potential role. There is no known association between RNA5SP188 and diabetes. Further research is needed to determine its potential role. There is no known association between RNA5SP188 and dementia. Further research is needed to determine its potential role.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SAXO3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease. SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease. SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease. SAXO3 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ENOPH1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with cancer or any other disease. ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with heart disease or any other disease. ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with diabetes or any other disease. ENOPH1 is a pseudogene and does not encode a functional protein. It is not associated with dementia or any other disease.",
+    "interacting_genes": []
+  }
+]

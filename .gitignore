@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+.venv_openwebui/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Open WebUI state & DB backups
+openwebui_state/
+openwebui_state_old/
+openwebui.db
+outputs/openwebui.db*
+
+# Secrets / tokens
+.env*
+.webui_secret_key
+
+# Regenerable outputs
+nanoGPT/out/
+outputs/openwebui_healthcheck.json
+outputs/nanogpt_sample.txt
+
+# macOS metadata
+.DS_Store

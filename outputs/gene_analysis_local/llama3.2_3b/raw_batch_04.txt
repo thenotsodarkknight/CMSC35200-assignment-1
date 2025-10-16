@@ -1,0 +1,138 @@
+{
+  "genes": [
+    {
+      "symbol": "CYCSP23",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence linking CYCSP23 to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No established link between CYCSP23 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Insufficient data to determine any connection to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "KIF1A",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "KIF1A is implicated in cancer progression through its role in microtubule stabilization."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited evidence suggests potential involvement in heart disease, but more research is needed."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association established between KIF1A and diabetes."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "KIF1A has been linked to dementia through its role in neurodegeneration."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "LHFPL5",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Mutations in LHFPL5 have been associated with cancer development and progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No established link between LHFPL5 and heart disease."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "LHFPL5 plays a role in glucose metabolism, suggesting an association with diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Insufficient data to determine any connection to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "CYCSP23"
+        ],
+        "evidence": "Interaction type: pathway-level; Evidence: [study name]"
+      }
+    },
+    {
+      "symbol": "RPL15P6",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No established link between RPL15P6 and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Insufficient data to determine any connection to diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known connection to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "THRIL",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Thrill is known to regulate cell growth and differentiation, suggesting an association with cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No established link between THRIL and heart disease."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "THRIL plays a role in insulin secretion, suggesting an association with diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Insufficient data to determine any connection to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "KIF1A"
+        ],
+        "evidence": "Interaction type: direct; Evidence: [study name]"
+      }
+    }
+  ]
+}

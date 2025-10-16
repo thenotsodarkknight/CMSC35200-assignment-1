@@ -1,0 +1,160 @@
+{
+  "genes": [
+    {
+      "symbol": "GALT",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence; primarily involved in glucose metabolism"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Critical for glucose sensing and regulation"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct connection established"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "GAL",
+          "GALE",
+          "GLUT1",
+          "GLUT2",
+          "GLUT3"
+        ],
+        "evidence": "Protein-protein interactions involved in glucose metabolism"
+      }
+    },
+    {
+      "symbol": "KCNH1-IT1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involved in cardiac ion channel function"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct connection established"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct link to neurological diseases"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "KCNH2",
+          "KCNJ1",
+          "KCND1",
+          "KCND2"
+        ],
+        "evidence": "Partners in cardiac ion channel function"
+      }
+    },
+    {
+      "symbol": "MTND4P4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found; mitochondrial protein with unclear role"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct connection established"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence linking to glucose regulation"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Unclear role in neurological diseases"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "MTND1",
+          "MTND2",
+          "MTND5",
+          "MTND6",
+          "MTND7"
+        ],
+        "evidence": "Partners in mitochondrial function; exact role unclear"
+      }
+    },
+    {
+      "symbol": "DENND11",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence linking to cancer development"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct connection established"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Limited understanding of its role in glucose regulation"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Unclear relationship with neurological diseases"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "DENND1",
+          "DENND2",
+          "DENND3",
+          "DENND4"
+        ],
+        "evidence": "Partners in DNA repair pathways; exact role unclear"
+      }
+    },
+    {
+      "symbol": "CXCR2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence linking to cancer development"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited understanding of its role in cardiovascular disease"
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Involved in insulin sensitivity and glucose metabolism"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Unclear relationship with neurological diseases"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "CXCR1",
+          "CXCR5",
+          "S100A8"
+        ],
+        "evidence": "Partners in chemotaxis and immune response; role in diabetes unclear"
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "genes": [
+    {
+      "symbol": "PRSS43P",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found in public databases."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Overexpression linked to cardiovascular disease progression."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association with diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Limited evidence of cognitive decline connection."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SURF1"
+        ],
+        "evidence": "Pathway-level interaction with surfactant protein 1."
+      }
+    },
+    {
+      "symbol": "KLF5",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Overexpression linked to oncogenesis and tumor progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No significant association with heart disease pathology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Limited evidence of diabetes connection."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "Impaired regulation of tau protein linked to neurodegenerative diseases."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TP53"
+        ],
+        "evidence": "Direct interaction with TP53 for transcriptional regulation."
+      }
+    },
+    {
+      "symbol": "RN7SL284P",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found in public databases."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited evidence of cardiovascular disease connection."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association with diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No available information on dementia connection."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [
+        ],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "SURF1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Aberrant surfactant protein 1 expression linked to cancer development."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No significant association with heart disease pathology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Limited evidence of diabetes connection."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "Impaired surfactant protein 1 regulation linked to neurodegenerative diseases."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PRSS43P"
+        ],
+        "evidence": "Pathway-level interaction with prss43p for lung function regulation."
+      }
+    },
+    {
+      "symbol": "MAGEC3",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Overexpression linked to tumor development and immune evasion."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No significant association with heart disease pathology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Limited evidence of diabetes connection."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "Impaired regulation of immune response linked to neurodegenerative diseases."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "KLF5"
+        ],
+        "evidence": "Direct interaction with klf5 for immune modulation and tumor progression."
+      }
+    }
+  ]
+}

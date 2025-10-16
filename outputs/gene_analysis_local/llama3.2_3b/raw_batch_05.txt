@@ -1,0 +1,32 @@
+{
+  "genes": [
+    {
+      "symbol": "ARSLP1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence linking ARSLP1 to cancer."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Studies suggest ARSLP1 may play a role in cardiac hypertrophy and heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No established link between ARSLP1 and diabetes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct evidence linking ARSLP1 to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SMPD4"
+        ],
+        "evidence": "Direct interaction observed in cellular studies"
+      }
+    }
+  ]
+}

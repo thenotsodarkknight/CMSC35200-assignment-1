@@ -1,0 +1,190 @@
+{
+  "genes": [
+    {
+      "symbol": "KLF5",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Evidence suggests that KLF5 plays a role in cell proliferation and apoptosis. Its dysregulation is implicated in several types of cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There's no direct association between KLF5 mutations and heart disease known to date."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "KLF5 is involved in glucose metabolism. Its alteration has been linked with insulin resistance contributing to diabetes pathogenesis."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No strong evidence suggests a direct role of KLF5 in dementia or Alzheimer's disease as of the current knowledge cutoff date."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PRSS43P"
+        ],
+        "evidence": "KLF5 has been shown to interact with PRSS43P in a context of inflammation and cancer progression."
+      }
+    },
+    {
+      "symbol": "RN7SL284P",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "RNA binding proteins like RN7SL are implicated in post-transcriptional regulation. Mutations can lead to dysregulated splicing and contribute to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There's no direct evidence linking RN7SL284P mutations with heart disease as of the current knowledge cutoff date."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "RNA binding proteins can impact gene expression related to metabolic processes. Dysregulation may influence diabetes risk indirectly through complex pathways involving multiple genes and environmental factors."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Direct association between RN7SL284P mutations and dementia is not established in the current literature as of the knowledge cutoff date."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SURF1"
+        ],
+        "evidence": "RN7SL284P is known to interact with SURF1 in a manner related to the regulation of energy metabolism and has been studied within neuronal cells."
+      }
+    },
+    {
+      "symbol": "SURF1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence suggests that SURF1 mutations are associated with cancer as of the current knowledge cutoff date."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "SURF1 is a gene implicated in mitochondrial dysfunction. Mutations can affect cardiac energy metabolism and contribute to heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There's no established link between SURF1 mutations directly causing diabetes as of the current knowledge cutoff date."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "SURF1 is not known to be associated with dementia or Alzheimer's disease based on available research up to this point."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PRSS43P"
+        ],
+        "evidence": "SURF1 is known to interact with PRSS43P in processes related to mitochondrial function."
+      }
+    },
+    {
+      "symbol": "MAGEC3",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "MAGEC family proteins are known to be expressed in various types of cancer and have been implicated as oncogenic factors."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "There is no evidence suggesting a direct role of MAGEC3 mutations or expression levels affecting heart disease development."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association between MAGEC3 and diabetes has been established in the scientific literature as per current knowledge cutoff date."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "Research indicates that some members of the MAGE gene family are associated with an increased risk for certain types of dementia due to their oncogenic properties and roles in cellular repair mechanisms."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PRSS43P"
+        ],
+        "evidence": "While direct interactions are not widely documented for MAGEC3 and PRSS43P specifically within the context of disease models as they stand at this knowledge cutoff date, their potential regulatory roles in cancer biology suggest a complex interplay that may be relevant to understanding tumorigenesis."
+      }
+    },
+    {
+      "symbol": "PRSS43P",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "As a gene with PRS functions in protease regulation which can impact cellular signaling pathways linked to cancer progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No evidence links the dysfunction of this protein with heart disease based on existing studies as per current knowledge cutoff date."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "PRSS43P is not known to be directly associated with diabetes in the available scientific literature up to this point."
+        },
+        "dementia": {
+          "associated": false,
+  "diseases": {
+    "cancer": {
+      "associated": true,
+      "evidence": "While KLF5 is not primarily known for its role in cancer cell metastasis directly through gene interactions as of the current knowledge cutoff date, it has a well-documented involvement in various aspects that could influence oncogenesis. Evidence suggests:",
+    "diseases": {
+      "cancer": {
+        "associated": true,
+        "evidence": "The protein encoded by KLF5 is involved in the regulation of cell cycle progression and apoptosis, which are critical processes in cancer development. Dysregulation can contribute to tumorigenesis.",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Alterations or mutations within KLF5 have been implicated as contributing factors in the development and progression of several cancer types. These alterations may affect how cells regulate cell division (proliferation) and programmed death (apoptosis), which are two fundamental processes that, when dysregulated, can lead to uncontrolled growth commonly observed in tumors.",
+        "diseases": {
+          "cancer": {},
+          "evidence": ""
+        }
+      },
+    "diseases": {
+      "diabetes": {
+        "associated": true,
+        "evidence": "The KLF5 protein interacts with PPARγ and can influence insulin signaling pathways. Given the relationship between insulin signaling and glucose metabolism—a core aspect of diabetes biology—mutations or changes in expression levels could contribute to conditions such as Type 2 Diabetes Mellit_1650 (T2DM)."
+      },
+    "diseases": {
+        "cancer": {}
+      }
+    }
+  }
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

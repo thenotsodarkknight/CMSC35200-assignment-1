@@ -1,0 +1,541 @@
+[
+  {
+    "gene": "TVP23C",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence No association established No connection found Limited to cellular processes only",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DRC4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence of direct involvement No established link No known connection Limited research findings",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ARL8BP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No established link Limited research findings No connection found Insufficient data to determine association",
+    "interacting_genes": [
+      "ARL6IP4"
+    ]
+  },
+  {
+    "gene": "LSM12P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence Limited research findings Insufficient data to determine association No known connection",
+    "interacting_genes": [
+      "LSM12BP2"
+    ]
+  },
+  {
+    "gene": "LINC01419",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence of direct involvement Limited research findings Insufficient data to determine association No known connection",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KRT8",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association with cancer Involved in the structure of cardiac cells, alterations may contribute to disease No established link No association found",
+    "interacting_genes": [
+      "KRT14"
+    ]
+  },
+  {
+    "gene": "FANCF",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Mutations can disrupt DNA repair, leading to cancer development No established link No association found No direct association with dementia",
+    "interacting_genes": [
+      "FANCI",
+      "NBSL1",
+      "FANCG"
+    ]
+  },
+  {
+    "gene": "DERL1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No established link to cancer development Involvement in the regulation of cardiac cell growth No association found No direct association with dementia",
+    "interacting_genes": [
+      "DERL2"
+    ]
+  },
+  {
+    "gene": "ZNF774",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association with cancer development Involvement in the regulation of cardiac cell growth and differentiation No established link to diabetes No direct association with dementia",
+    "interacting_genes": [
+      "ZNF335",
+      "ZNF703",
+      "KRT8"
+    ]
+  },
+  {
+    "gene": "SFTPC",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No established link to cancer development Involvement in the regulation of cardiac cell growth and differentiation No association found No direct association with dementia",
+    "interacting_genes": [
+      "SFTPB",
+      "ACTN1"
+    ]
+  },
+  {
+    "gene": "CRLF1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence; primarily involved in B cell development and function No significant association found No significant association found No significant association found",
+    "interacting_genes": [
+      "BCR"
+    ]
+  },
+  {
+    "gene": "SYNGR3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No significant association found No significant association found No significant association found No significant association found",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PSMD11",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence; primarily involved in proteasome function Mutations can lead to familial hypercholesterolemia No significant association found No significant association found",
+    "interacting_genes": [
+      "PSME1",
+      "PSMA4"
+    ]
+  },
+  {
+    "gene": "ATP6V0A4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence; primarily involved in mitochondrial function Mutations can lead to hypertrophic cardiomyopathy No significant association found No significant association found",
+    "interacting_genes": [
+      "ATP6V0A3",
+      "COX10"
+    ]
+  },
+  {
+    "gene": "ATP1B3-AS1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No significant association found Mutations can lead to familial hyperkalemic periodic paralysis No significant association found No significant association found",
+    "interacting_genes": [
+      "ATP1B3",
+      "BCR"
+    ]
+  },
+  {
+    "gene": "CYCSP23",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence linking CYCSP23 to cancer. No known association with heart disease. No established link between CYCSP23 and diabetes. Insufficient data to determine any connection to dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KIF1A",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "KIF1A is implicated in cancer progression through its role in microtubule stabilization. Limited evidence suggests potential involvement in heart disease, but more research is needed. No direct association established between KIF1A and diabetes. KIF1A has been linked to dementia through its role in neurodegeneration.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LHFPL5",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Mutations in LHFPL5 have been associated with cancer development and progression. No established link between LHFPL5 and heart disease. LHFPL5 plays a role in glucose metabolism, suggesting an association with diabetes. Insufficient data to determine any connection to dementia.",
+    "interacting_genes": [
+      "CYCSP23"
+    ]
+  },
+  {
+    "gene": "RPL15P6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association with cancer. No established link between RPL15P6 and heart disease. Insufficient data to determine any connection to diabetes. No known connection to dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "THRIL",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Thrill is known to regulate cell growth and differentiation, suggesting an association with cancer. No established link between THRIL and heart disease. THRIL plays a role in insulin secretion, suggesting an association with diabetes. Insufficient data to determine any connection to dementia.",
+    "interacting_genes": [
+      "KIF1A"
+    ]
+  },
+  {
+    "gene": "ARSLP1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence linking ARSLP1 to cancer. Studies suggest ARSLP1 may play a role in cardiac hypertrophy and heart disease. No established link between ARSLP1 and diabetes. No direct evidence linking ARSLP1 to dementia.",
+    "interacting_genes": [
+      "SMPD4"
+    ]
+  },
+  {
+    "gene": "SMPD4P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "IGHD6-6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "VAMP9P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SF3B5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PRSS43P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found in public databases. Overexpression linked to cardiovascular disease progression. No significant association with diabetes mellitus. Limited evidence of cognitive decline connection.",
+    "interacting_genes": [
+      "SURF1"
+    ]
+  },
+  {
+    "gene": "KLF5",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "Overexpression linked to oncogenesis and tumor progression. No significant association with heart disease pathology. Limited evidence of diabetes connection. Impaired regulation of tau protein linked to neurodegenerative diseases.",
+    "interacting_genes": [
+      "TP53"
+    ]
+  },
+  {
+    "gene": "RN7SL284P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found in public databases. Limited evidence of cardiovascular disease connection. No significant association with diabetes mellitus. No available information on dementia connection.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SURF1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "Aberrant surfactant protein 1 expression linked to cancer development. No significant association with heart disease pathology. Limited evidence of diabetes connection. Impaired surfactant protein 1 regulation linked to neurodegenerative diseases.",
+    "interacting_genes": [
+      "PRSS43P"
+    ]
+  },
+  {
+    "gene": "MAGEC3",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "Overexpression linked to tumor development and immune evasion. No significant association with heart disease pathology. Limited evidence of diabetes connection. Impaired regulation of immune response linked to neurodegenerative diseases.",
+    "interacting_genes": [
+      "KLF5"
+    ]
+  },
+  {
+    "gene": "ADAM33",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence, primarily associated with asthma and lung function Involved in cardiac fibrosis and inflammation No direct association found No evidence of association",
+    "interacting_genes": [
+      "PDGFRB"
+    ]
+  },
+  {
+    "gene": "GFUS",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence of association No direct or indirect association found No evidence No evidence of association",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PTBP3",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Involved in cancer progression and metastasis No direct association found No evidence of association No evidence of association",
+    "interacting_genes": [
+      "TP53"
+    ]
+  },
+  {
+    "gene": "MYCLP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence of association No direct or indirect association found No evidence No evidence of association",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MAGEA8-AS1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Involved in cancer cell growth and proliferation No direct association found No evidence of association No evidence of association",
+    "interacting_genes": []
+  },
+  {
+    "gene": "GALT",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence; primarily involved in glucose metabolism No direct association found Critical for glucose sensing and regulation No direct connection established",
+    "interacting_genes": [
+      "GAL",
+      "GALE",
+      "GLUT1",
+      "GLUT2",
+      "GLUT3"
+    ]
+  },
+  {
+    "gene": "KCNH1-IT1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found Involved in cardiac ion channel function No direct connection established No direct link to neurological diseases",
+    "interacting_genes": [
+      "KCNH2",
+      "KCNJ1",
+      "KCND1",
+      "KCND2"
+    ]
+  },
+  {
+    "gene": "MTND4P4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found; mitochondrial protein with unclear role No direct connection established No evidence linking to glucose regulation Unclear role in neurological diseases",
+    "interacting_genes": [
+      "MTND1",
+      "MTND2",
+      "MTND5",
+      "MTND6",
+      "MTND7"
+    ]
+  },
+  {
+    "gene": "DENND11",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence linking to cancer development No direct connection established Limited understanding of its role in glucose regulation Unclear relationship with neurological diseases",
+    "interacting_genes": [
+      "DENND1",
+      "DENND2",
+      "DENND3",
+      "DENND4"
+    ]
+  },
+  {
+    "gene": "CXCR2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "No evidence linking to cancer development Limited understanding of its role in cardiovascular disease Involved in insulin sensitivity and glucose metabolism Unclear relationship with neurological diseases",
+    "interacting_genes": [
+      "CXCR1",
+      "CXCR5",
+      "S100A8"
+    ]
+  },
+  {
+    "gene": "OSBPL5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence linking OSBPL5 directly to cancer. No clear association found between OSBPL5 and heart disease. Some studies suggest a link between OSBPL5 variants and diabetes risk, but evidence is limited. No direct association between OSBPL5 and dementia has been established.",
+    "interacting_genes": [
+      "TP53"
+    ]
+  },
+  {
+    "gene": "DAD1P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence linking DAD1P1 to cancer or any other disease. Limited information available on DAD1P1's potential role in heart disease. No clear connection between DAD1P1 and diabetes risk or pathology. Insufficient data to establish a link between DAD1P1 and dementia.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "NR4A1AS",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "NR4A1 antisense RNA has been implicated in cancer suppression and regulation of cell growth. No clear evidence linking NR4A1AS to heart disease. Some studies suggest NR4A1 AS is involved in glucose metabolism and insulin sensitivity regulation, potentially playing a role in diabetes risk. Limited evidence on the potential link between NR4A1AS and dementia.",
+    "interacting_genes": [
+      "NR4A1"
+    ]
+  },
+  {
+    "gene": "NANOS1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Nanos is a tumor suppressor gene, mutations or deletions leading to cancer. No clear evidence linking NANOS1 to heart disease. Some studies suggest a link between NANOS expression and regulation of insulin signaling in pancreatic beta cells, potentially playing a role in diabetes risk. No direct association between NANOS1 and dementia has been established.",
+    "interacting_genes": [
+      "TP53"
+    ]
+  },
+  {
+    "gene": "TLE2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "No clear evidence linking TLE2 to cancer development or progression. Limited information available on potential role in heart disease. Insufficient data to establish connection between TLE2 and diabetes risk or pathology. TLE2 has been implicated in neurodegenerative diseases, including Alzheimer's disease.",
+    "interacting_genes": [
+      "TP53"
+    ]
+  },
+  {
+    "gene": "LINC02827",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Limited evidence for involvement in cancer. No direct association found No direct association found No direct association found",
+    "interacting_genes": [
+      "SAXO3"
+    ]
+  },
+  {
+    "gene": "BTF3P16",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found No direct association found No direct association found No direct association found",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RNA5SP188",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found No direct association found No direct association found No direct association found",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SAXO3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found Involved in cardiac development and function. No direct association found No direct association found",
+    "interacting_genes": [
+      "LINC02827"
+    ]
+  },
+  {
+    "gene": "ENOPH1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found Involved in cardiac development and function. No direct association found No direct association found",
+    "interacting_genes": [
+      "BTF3P16",
+      "SAXO3"
+    ]
+  }
+]

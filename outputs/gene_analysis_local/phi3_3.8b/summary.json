@@ -1,0 +1,161 @@
+{
+  "model": "phi3:3.8b",
+  "runtime_seconds": 183.42277216599996,
+  "manual_estimate_minutes": 200.0,
+  "summary": {
+    "total_genes": 50,
+    "disease_counts": {
+      "cancer": 11,
+      "heart_disease": 7,
+      "diabetes": 4,
+      "dementia": 2
+    },
+    "genes_with_interactions": [
+      {
+        "gene": "KRT8",
+        "partners": [
+          "DERL1"
+        ]
+      },
+      {
+        "gene": "FANCF",
+        "partners": [
+          "DERL1"
+        ]
+      },
+      {
+        "gene": "CRLF1",
+        "partners": [
+          "SYNGR3"
+        ]
+      },
+      {
+        "gene": "SYNGR3",
+        "partners": [
+          "CRLF1",
+          "PSMD11"
+        ]
+      },
+      {
+        "gene": "PSMD11",
+        "partners": [
+          "CRLF1",
+          "SYNGR3"
+        ]
+      },
+      {
+        "gene": "ATP6V0A4",
+        "partners": [
+          "PSMD11"
+        ]
+      },
+      {
+        "gene": "ATP1B3-AS1",
+        "partners": [
+          "ATP6V0A4"
+        ]
+      },
+      {
+        "gene": "ARSLP1",
+        "partners": [
+          "SMPD4P1"
+        ]
+      },
+      {
+        "gene": "SMPD4P1",
+        "partners": [
+          "IGHD6-6",
+          "VAMP9P"
+        ]
+      },
+      {
+        "gene": "IGHD6-6",
+        "partners": [
+          "SMPD4P1"
+        ]
+      },
+      {
+        "gene": "VAMP9P",
+        "partners": [
+          "SMPD4P1"
+        ]
+      },
+      {
+        "gene": "KLF5",
+        "partners": [
+          "PRSS43P"
+        ]
+      },
+      {
+        "gene": "RN7SL284P",
+        "partners": [
+          "SURF1"
+        ]
+      },
+      {
+        "gene": "SURF1",
+        "partners": [
+          "PRSS43P"
+        ]
+      },
+      {
+        "gene": "MAGEC3",
+        "partners": [
+          "PRSS43P"
+        ]
+      },
+      {
+        "gene": "ADAM33",
+        "partners": [
+          "PTBP3"
+        ]
+      },
+      {
+        "gene": "GALT",
+        "partners": [
+          "KCNH1-IT1",
+          "MTND4P4"
+        ]
+      },
+      {
+        "gene": "KCNH1-IT1",
+        "partners": [
+          "GALT"
+        ]
+      },
+      {
+        "gene": "MTND4P4",
+        "partners": [
+          "GALT",
+          "KCNH1-IT1"
+        ]
+      },
+      {
+        "gene": "DENND11",
+        "partners": [
+          "GALT"
+        ]
+      },
+      {
+        "gene": "CXCR2",
+        "partners": [
+          "GALT",
+          "KCNH1-IT1"
+        ]
+      },
+      {
+        "gene": "OSBPL5",
+        "partners": [
+          "NR4A1AS",
+          "NANOS1"
+        ]
+      },
+      {
+        "gene": "LINC02827",
+        "partners": [
+          "BTF3P16"
+        ]
+      }
+    ]
+  }
+}

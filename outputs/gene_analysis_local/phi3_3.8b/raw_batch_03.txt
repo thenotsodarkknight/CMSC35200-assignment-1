@@ -1,0 +1,146 @@
+{
+  "genes": [
+    {
+      "symbol": "CRLF1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "CRLF1 is frequently overexpressed in certain types of cancer and promotes tumorigenesis through Wnt signaling pathway activation. CRLF1 knockout studies have shown reduced metastatic potential."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found between CRLF1 and cardiovascular diseases as of current literature."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "CRLF1 is not linked to insulin secretion or resistance pathways in diabetes mellitus according to existing research."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known role of CRLF1 in cognitive decline or dementia-related disorders has been established in scientific literature."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SYNGR3"
+        ],
+        "evidence": "CRLF1 forms complexes with SYNGR3 to regulate cell signaling in various tissues."
+      }
+    },
+    {
+      "symbol": "SYNGR3",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "SYNGR3 is implicated in the progression of certain cancers due to its role as a proto-oncogene and involvement in Wnt signaling. Loss or dysfunction of SYNGR3 has been linked with tumor suppression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found between SYNGR3 and cardiovascular diseases as of current literature."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "SYNGR3 does not appear to play a role in the regulation of insulin or glucose homeostasis and thus is not associated with diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known connection between SYNGR3 expression levels and the development of dementia-related disorders has been found in scientific literature."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "CRLF1", 
+          "PSMD11"
+        ],
+        "evidence": "SYNGR3 has been reported to interact with CRLF1 in regulating cell signaling and growth. It also shows interaction with PSMD11 which is involved in the ubiquitin-mediated protein degradation pathway."
+      }
+    },
+    {
+      "symbol": "PSMD11",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Dysregulation of PSMD11 is associated with cancer due to its role in the ubiquitin-mediated protein degradation pathway. Abnormal expression levels have been observed in several types of tumors."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association between PSMD11 and cardiovascular diseases as it primarily functions within the ubiquitin-proteasome pathway which does not directly impact heart muscle physiology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "PSMD11 is implicated in metabolic processes but no direct role has been identified concerning insulin production or resistance mechanisms related to diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "While PSMD11 is essential for protein degradation in cells and may impact neurological function indirectly through proteostasis imbalance, no direct association with the development of dementia has been established."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "CRLF1", 
+          "SYNGR3"
+        ],
+        "evidence": "PSMD11 interacts with CRLF1 in the Wnt signaling pathway and is part of complexes that include SYNGR3, playing a role in cellular homeostasis."
+      }
+    },
+    {
+      "symbol": "ATP6V0A4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found between ATP6V0A4 and cancer as its primary function is related to intracellular trafficking of lysosomal enzymes."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "ATP6V0A4 plays a role in the exocytosis and endolysosome formation which is not directly implicated in cardiac muscle function or heart disease pathology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence suggests that ATP6V0A4 plays a role in insulin secretion or glucose homeostasis which are key factors in diabetes mellitus."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "ATP6V0A4 is not implicated in the pathophysiology of dementia or cognitive decline based on current scientific understanding."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PSMD11"
+        ],
+        "evidence": "ATP6V0A4 interacts with PSMD11 in the context of intracellular trafficking and lysosomal enzyme sorting which is crucial for cell homeostasis."
+      }
+    },
+    {
+      "symbol": "ATP1B3-AS1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between ATP1B3-AS1 and oncogenesis or cancer development has been identified in the current body of research."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "ATP1B3-AS1 is believed to play a role in heart disease through its influence on adenylate cyclase activity which can impact cardiac muscle function."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No evidence suggests that ATP1B3-AS1 is directly involved with insulin secretion or glucose regulation in diabetes mellitsus patients."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "Elevations of ATP1B3-AS1 levels have been observed in the brains of individuals with Alzheimer's disease and other forms of dementia which suggests a potential role."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "ATP6V0A4"
+        ],
+        "evidence": "There is no direct interaction between ATP1B3-AS1 and ATP6V0A4 reported; both genes function in their respective domains without crosstalk."
+      }
+    }
+  ]
+}

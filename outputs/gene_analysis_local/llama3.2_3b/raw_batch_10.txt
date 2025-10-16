@@ -1,0 +1,141 @@
+{
+  "genes": [
+    {
+      "symbol": "LINC02827",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence for involvement in cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SAXO3"
+        ],
+        "evidence": "Partnership in RNA-mediated regulation."
+      }
+    },
+    {
+      "symbol": "BTF3P16",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "Gene not identified as part of established networks."
+      }
+    },
+    {
+      "symbol": "RNA5SP188",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "Gene not identified as part of established networks."
+      }
+    },
+    {
+      "symbol": "SAXO3",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involved in cardiac development and function."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "LINC02827"
+        ],
+        "evidence": "Partnership in RNA-mediated regulation."
+      }
+    },
+    {
+      "symbol": "ENOPH1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Involved in cardiac development and function."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No direct association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "BTF3P16",
+          "SAXO3"
+        ],
+        "evidence": "Partnership in RNA-mediated regulation."
+      }
+    }
+  ]
+}

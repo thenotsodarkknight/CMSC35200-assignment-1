@@ -1,0 +1,138 @@
+{
+  "genes": [
+    {
+      "symbol": "TVP23C",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No association established"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No connection found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Limited to cellular processes only"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "DRC4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence of direct involvement"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No established link"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known connection"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Limited research findings"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "ARL8BP2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No established link"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited research findings"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No connection found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Insufficient data to determine association"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "ARL6IP4"
+        ],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "LSM12P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited research findings"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Insufficient data to determine association"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known connection"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "LSM12BP2"
+        ],
+        "evidence": ""
+      }
+    },
+    {
+      "symbol": "LINC01419",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence of direct involvement"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited research findings"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Insufficient data to determine association"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known connection"
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": ""
+      }
+    }
+  ]
+}

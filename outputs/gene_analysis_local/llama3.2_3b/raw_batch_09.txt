@@ -1,0 +1,142 @@
+{
+  "genes": [
+    {
+      "symbol": "OSBPL5",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence linking OSBPL5 directly to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No clear association found between OSBPL5 and heart disease."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Some studies suggest a link between OSBPL5 variants and diabetes risk, but evidence is limited."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association between OSBPL5 and dementia has been established."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TP53"
+        ],
+        "evidence": "Direct interaction, key regulatory role in cell growth control."
+      }
+    },
+    {
+      "symbol": "DAD1P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No direct evidence linking DAD1P1 to cancer or any other disease."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited information available on DAD1P1's potential role in heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No clear connection between DAD1P1 and diabetes risk or pathology."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Insufficient data to establish a link between DAD1P1 and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes"
+      }
+    },
+    {
+      "symbol": "NR4A1AS",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "NR4A1 antisense RNA has been implicated in cancer suppression and regulation of cell growth."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No clear evidence linking NR4A1AS to heart disease."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Some studies suggest NR4A1 AS is involved in glucose metabolism and insulin sensitivity regulation, potentially playing a role in diabetes risk."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Limited evidence on the potential link between NR4A1AS and dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "NR4A1"
+        ],
+        "evidence": "Regulatory interaction, transcriptional regulation of target genes."
+      }
+    },
+    {
+      "symbol": "NANOS1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Nanos is a tumor suppressor gene, mutations or deletions leading to cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No clear evidence linking NANOS1 to heart disease."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Some studies suggest a link between NANOS expression and regulation of insulin signaling in pancreatic beta cells, potentially playing a role in diabetes risk."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association between NANOS1 and dementia has been established."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TP53"
+        ],
+        "evidence": "Direct interaction, tumor suppression role in cancer development."
+      }
+    },
+    {
+      "symbol": "TLE2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No clear evidence linking TLE2 to cancer development or progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "Limited information available on potential role in heart disease."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "Insufficient data to establish connection between TLE2 and diabetes risk or pathology."
+        },
+        "dementia": {
+          "associated": true,
+          "evidence": "TLE2 has been implicated in neurodegenerative diseases, including Alzheimer's disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "TP53"
+        ],
+        "evidence": "Regulatory interaction, role in gene silencing and transcriptional regulation."
+      }
+    }
+  ]
+}

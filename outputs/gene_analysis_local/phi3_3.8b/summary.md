@@ -1,0 +1,35 @@
+# Gene Analysis Summary
+- Model: `phi3:3.8b`
+- Runtime (sec): 183.42
+- Estimated manual time (minutes): 200.0
+
+## Disease Counts
+- **Cancer**: 11
+- **Heart Disease**: 7
+- **Diabetes**: 4
+- **Dementia**: 2
+
+## Genes With Reported Interactions
+- KRT8: DERL1
+- FANCF: DERL1
+- CRLF1: SYNGR3
+- SYNGR3: CRLF1, PSMD11
+- PSMD11: CRLF1, SYNGR3
+- ATP6V0A4: PSMD11
+- ATP1B3-AS1: ATP6V0A4
+- ARSLP1: SMPD4P1
+- SMPD4P1: IGHD6-6, VAMP9P
+- IGHD6-6: SMPD4P1
+- VAMP9P: SMPD4P1
+- KLF5: PRSS43P
+- RN7SL284P: SURF1
+- SURF1: PRSS43P
+- MAGEC3: PRSS43P
+- ADAM33: PTBP3
+- GALT: KCNH1-IT1, MTND4P4
+- KCNH1-IT1: GALT
+- MTND4P4: GALT, KCNH1-IT1
+- DENND11: GALT
+- CXCR2: GALT, KCNH1-IT1
+- OSBPL5: NR4A1AS, NANOS1
+- LINC02827: BTF3P16

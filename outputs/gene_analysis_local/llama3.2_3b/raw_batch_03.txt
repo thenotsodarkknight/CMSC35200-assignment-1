@@ -1,0 +1,146 @@
+{
+  "genes": [
+    {
+      "symbol": "CRLF1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence; primarily involved in B cell development and function"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No significant association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "BCR"
+        ],
+        "evidence": "Direct interaction involved in B cell signaling"
+      }
+    },
+    {
+      "symbol": "SYNGR3",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No significant association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+        ],
+        "evidence": "No known direct or pathway-level interactions"
+      }
+    },
+    {
+      "symbol": "PSMD11",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence; primarily involved in proteasome function"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Mutations can lead to familial hypercholesterolemia"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No significant association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "PSME1",
+          "PSMA4"
+        ],
+        "evidence": "Direct interactions involved in proteasome function"
+      }
+    },
+    {
+      "symbol": "ATP6V0A4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "Limited evidence; primarily involved in mitochondrial function"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Mutations can lead to hypertrophic cardiomyopathy"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No significant association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "ATP6V0A3",
+          "COX10"
+        ],
+        "evidence": "Direct interactions involved in mitochondrial function"
+      }
+    },
+    {
+      "symbol": "ATP1B3-AS1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Mutations can lead to familial hyperkalemic periodic paralysis"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No significant association found"
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No significant association found"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "ATP1B3",
+          "BCR"
+        ],
+        "evidence": "Direct interactions involved in ion channel function"
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "genes": [
+    {
+      "symbol": "TVP23C",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "DRC4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "ARL8BP2",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "LSM12P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "LINC01419",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "LINC01419 is a long non-coding RNA that has been implicated in various types of cancer, including breast and lung cancer. Its expression is often upregulated in cancer cells."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "KRT8",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "KRT8 is a type II keratin that is often overexpressed in various types of cancer, including liver and breast cancer. Its expression is associated with cancer progression and metastasis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "FANCF",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "FANCF is a component of the Fanconi anemia pathway, which is involved in DNA repair. Mutations in FANCF are associated with an increased risk of cancer, particularly breast and ovarian cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [],
+        "evidence": "FANCF interacts with other components of the Fanconi anemia pathway, but no interactions with other genes on this list are known."
+      }
+    },
+    {
+      "symbol": "DERL1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "DERL1 is involved in the unfolded protein response and has been implicated in various types of cancer, including breast and lung cancer. Its expression is often upregulated in cancer cells."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "ZNF774",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    },
+    {
+      "symbol": "SFTPC",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association with cancer. Limited information available."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No known association with heart disease. Limited information available."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known association with diabetes. Limited information available."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No known association with dementia. Limited information available."
+        }
+      },
+      "interactions": {
+        "has_interactions": false,
+        "partners": [],
+        "evidence": "No known interactions with other genes."
+      }
+    }
+  ]
+}

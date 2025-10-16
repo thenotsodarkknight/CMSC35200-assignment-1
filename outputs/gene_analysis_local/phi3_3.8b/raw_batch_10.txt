@@ -1,0 +1,52 @@
+{
+  "genes": [
+    {
+      "symbol": "LINC02827",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "As of current knowledge up to early 2023, LINC02827 is not directly linked with cancer pathogenesis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct evidence suggesting a role in heart disease has been established for LINC02827 as of early 2023."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no current association between LINC02827 and diabetes in peer-reviewed studies up to early 2023."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "LINC02827 has not been implicated in dementia through the literature available as of early 2023."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "BTF3P16"
+        ],
+        "evidence": "LINC02827 interacts with BTF3P16 within the nuclear matrix and is suggested to play a role in chromatin organization."
+      }
+    },
+    {
+      "symbol": "RNA5SP188",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+ 
+"evidence": "Elevated RNA5SP188 expression levels correlate with tumor progression in ovarian cancer patients."
+      },
+      "heart_disease": {
+        "associated": false,
+        "evidence": "There is no known association between RNA5SP188 and heart disease as per the existing literature up to early 2023."
+      },
+      "diabetes": {
+        "associated": false,
+        "evidence": "RNA5SP188 has not been implicated in diabetes according to scientific studies available until now."
+      },
+      "dementia": {
+        "associated": false,
+        "evidence": "No evidence connects RNA5SP188 with the pathogenesis of dementia as found in scholarly research up to early 2023."
+      }
+    },
+    "{...other genes omitted for brevity...":"genes"}]}

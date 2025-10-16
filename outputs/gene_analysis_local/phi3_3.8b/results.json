@@ -1,0 +1,505 @@
+[
+  {
+    "gene": "TVP23C",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "DRC4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ARL8BP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LSM12P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LINC01419",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KRT8",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence suggests that KRT8 is associated with cancer. KRT8 mutations can lead to skin-related cardiovascged conditions due to the crucial role of keratin in heart tissue integrity and function. However, direct causation has not been fully established. There is no known association between KRT8 mutations or expression levels and the development of diabetes. KRT8 does not play a role in brain tissue maintenance to an extent that its alteration would be directly linked with dementia risk or pathology.",
+    "interacting_genes": [
+      "DERL1"
+    ]
+  },
+  {
+    "gene": "FANCF",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "The FANCF gene is directly associated with cancer as it plays a crucial role in DNA damage response and repair mechanisms. Mutations or dysfunction can lead to genomic instability that promotes tumorigenesis. There is no established connection between FANCF gene activity and heart disease development. No evidence suggests a link between the function of FANCF in DNA repair pathways and diabetes mellitsus or metabolism. While genetic factors can contribute to neurological conditions like dementia, FANCF is not specifically implicated in brain tissue health and function with respect to cognitive decline.",
+    "interacting_genes": [
+      "DERL1"
+    ]
+  },
+  {
+    "gene": "DERL1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ZNF774",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SFTPC",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "CRLF1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "CRLF1 is frequently overexpressed in certain types of cancer and promotes tumorigenesis through Wnt signaling pathway activation. CRLF1 knockout studies have shown reduced metastatic potential. No direct association found between CRLF1 and cardiovascular diseases as of current literature. CRLF1 is not linked to insulin secretion or resistance pathways in diabetes mellitus according to existing research. No known role of CRLF1 in cognitive decline or dementia-related disorders has been established in scientific literature.",
+    "interacting_genes": [
+      "SYNGR3"
+    ]
+  },
+  {
+    "gene": "SYNGR3",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "SYNGR3 is implicated in the progression of certain cancers due to its role as a proto-oncogene and involvement in Wnt signaling. Loss or dysfunction of SYNGR3 has been linked with tumor suppression. No direct association found between SYNGR3 and cardiovascular diseases as of current literature. SYNGR3 does not appear to play a role in the regulation of insulin or glucose homeostasis and thus is not associated with diabetes mellitus. No known connection between SYNGR3 expression levels and the development of dementia-related disorders has been found in scientific literature.",
+    "interacting_genes": [
+      "CRLF1",
+      "PSMD11"
+    ]
+  },
+  {
+    "gene": "PSMD11",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Dysregulation of PSMD11 is associated with cancer due to its role in the ubiquitin-mediated protein degradation pathway. Abnormal expression levels have been observed in several types of tumors. No known association between PSMD11 and cardiovascular diseases as it primarily functions within the ubiquitin-proteasome pathway which does not directly impact heart muscle physiology. PSMD11 is implicated in metabolic processes but no direct role has been identified concerning insulin production or resistance mechanisms related to diabetes mellitus. While PSMD11 is essential for protein degradation in cells and may impact neurological function indirectly through proteostasis imbalance, no direct association with the development of dementia has been established.",
+    "interacting_genes": [
+      "CRLF1",
+      "SYNGR3"
+    ]
+  },
+  {
+    "gene": "ATP6V0A4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct association found between ATP6V0A4 and cancer as its primary function is related to intracellular trafficking of lysosomal enzymes. ATP6V0A4 plays a role in the exocytosis and endolysosome formation which is not directly implicated in cardiac muscle function or heart disease pathology. No evidence suggests that ATP6V0A4 plays a role in insulin secretion or glucose homeostasis which are key factors in diabetes mellitus. ATP6V0A4 is not implicated in the pathophysiology of dementia or cognitive decline based on current scientific understanding.",
+    "interacting_genes": [
+      "PSMD11"
+    ]
+  },
+  {
+    "gene": "ATP1B3-AS1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "No known association between ATP1B3-AS1 and oncogenesis or cancer development has been identified in the current body of research. ATP1B3-AS1 is believed to play a role in heart disease through its influence on adenylate cyclase activity which can impact cardiac muscle function. No evidence suggests that ATP1B3-AS1 is directly involved with insulin secretion or glucose regulation in diabetes mellitsus patients. Elevations of ATP1B3-AS1 levels have been observed in the brains of individuals with Alzheimer's disease and other forms of dementia which suggests a potential role.",
+    "interacting_genes": [
+      "ATP6V0A4"
+    ]
+  },
+  {
+    "gene": "CYCSP23",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KIF1A",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LHFPL5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RPL15P6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "THRIL",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ARSLP1",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Evidence suggests that ARSLP1 is associated with breast and ovarian cancers. The gene's role in tumorigenesis has been confirmed by multiple studies linking its expression levels to cancer progression. No direct association between ARSLP1 and heart diseases is currently documented. There's no strong evidence supporting a role for ARSLP1 in diabetes development or progression. Research has not established any connection between mutations in the ARSLP1 gene and dementia pathologies such as Alzheimer's disease.",
+    "interacting_genes": [
+      "SMPD4P1"
+    ]
+  },
+  {
+    "gene": "SMPD4P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No significant evidence indicates a direct association between SMPD4P1 and cancer. SMPD4P1 has not been linked to heart diseases in current scientific literature. There is no established connection between SMPD4P1 and diabetes development or progression. No direct association with dementia pathologies has been documented for mutations in the SMPD4P1 gene.",
+    "interacting_genes": [
+      "IGHD6-6",
+      "VAMP9P"
+    ]
+  },
+  {
+    "gene": "IGHD6-6",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "The IGHD6-6 gene has not been directly associated with cancer. No evidence suggests a connection between the IGHD6-6 gene and heart disease risk or pathology. There's no substantial research linking this particular genetic variant with diabetes development or progression. IGHD6-6 does not appear to influence dementia risk based on current studies and evidence.",
+    "interacting_genes": [
+      "SMPD4P1"
+    ]
+  },
+  {
+    "gene": "VAMP9P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "There is no clear evidence linking VAMP9P with cancer development or progression. VAMP9P has not been shown to contribute directly to heart disease pathology based on available research data. The gene does not seem to play a role in diabetes as per current biomedical understanding and studies. There is no evidence that suggests VAMP9P mutations are connected with dementia or Alzheimer's disease pathology.",
+    "interacting_genes": [
+      "SMPD4P1"
+    ]
+  },
+  {
+    "gene": "SF3B5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PRSS43P",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "KLF5",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Evidence suggests that KLF5 plays a role in cell proliferation and apoptosis. Its dysregulation is implicated in several types of cancer. There's no direct association between KLF5 mutations and heart disease known to date. KLF5 is involved in glucose metabolism. Its alteration has been linked with insulin resistance contributing to diabetes pathogenesis. No strong evidence suggests a direct role of KLF5 in dementia or Alzheimer's disease as of the current knowledge cutoff date.",
+    "interacting_genes": [
+      "PRSS43P"
+    ]
+  },
+  {
+    "gene": "RN7SL284P",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "RNA binding proteins like RN7SL are implicated in post-transcriptional regulation. Mutations can lead to dysregulated splicing and contribute to cancer. There's no direct evidence linking RN7SL284P mutations with heart disease as of the current knowledge cutoff date. RNA binding proteins can impact gene expression related to metabolic processes. Dysregulation may influence diabetes risk indirectly through complex pathways involving multiple genes and environmental factors. Direct association between RN7SL284P mutations and dementia is not established in the current literature as of the knowledge cutoff date.",
+    "interacting_genes": [
+      "SURF1"
+    ]
+  },
+  {
+    "gene": "SURF1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No direct evidence suggests that SURF1 mutations are associated with cancer as of the current knowledge cutoff date. SURF1 is a gene implicated in mitochondrial dysfunction. Mutations can affect cardiac energy metabolism and contribute to heart disease. There's no established link between SURF1 mutations directly causing diabetes as of the current knowledge cutoff date. SURF1 is not known to be associated with dementia or Alzheimer's disease based on available research up to this point.",
+    "interacting_genes": [
+      "PRSS43P"
+    ]
+  },
+  {
+    "gene": "MAGEC3",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": true,
+    "explanation": "MAGEC family proteins are known to be expressed in various types of cancer and have been implicated as oncogenic factors. There is no evidence suggesting a direct role of MAGEC3 mutations or expression levels affecting heart disease development. No significant association between MAGEC3 and diabetes has been established in the scientific literature as per current knowledge cutoff date. Research indicates that some members of the MAGE gene family are associated with an increased risk for certain types of dementia due to their oncogenic properties and roles in cellular repair mechanisms.",
+    "interacting_genes": [
+      "PRSS43P"
+    ]
+  },
+  {
+    "gene": "ADAM33",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No strong evidence linking ADAM33 to cancer. It's mainly associated with craniofacial development. ADAM33 is linked to heart disease through its role in extracellular matrix turnover which affects aortic elasticity and potentially contributes to cardiovascsitc pathologies. While ADAM33 has been studied in relation to diabetes due to its role in extracellular matrix turnover and cell signaling which could theoretically affect insulin sensitivity, there is no direct association currently established. There's no evidence suggesting a link between ADAM33 and dementia as of current research findings.",
+    "interacting_genes": [
+      "PTBP3"
+    ]
+  },
+  {
+    "gene": "GFUS",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "PTBP3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MYCLP2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "MAGEA8-AS1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "GALT",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Elevated GALT levels are found in gastric and colorectal cancers. The enzyme activates nucleotide sugars for lipid modifications which may play a role in cancer progression. No direct evidence linking GALT to heart disease has been established. Galactose-1-phosphate uridyltransferase (GALT) deficiency is associated with galactosemia and can lead to complications that may increase diabetes risk. No direct evidence suggests a connection between GALT gene function and dementia development.",
+    "interacting_genes": [
+      "KCNH1-IT1",
+      "MTND4P4"
+    ]
+  },
+  {
+    "gene": "KCNH1-IT1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No evidence suggests KCNH1 and IT1 contribute to cancer development. KCNH1 encodes for a potasssium channel involved in heart rate regulation; mutations can lead to arrhythmias and potentially contribute to cardiac diseases. No known link between KCNH1-IT1 interaction or the resulting protein function with diabetes pathogenesis has been established. KCNH1 is not implicated in any processes directly related to cognitive decline leading to dementia.",
+    "interacting_genes": [
+      "GALT"
+    ]
+  },
+  {
+    "gene": "MTND4P4",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known association between MTND4 and cancer has been reported. Mitochondrial NADH dehydrogenase 4 (MTND4) is crucial for cellular energy production; defects can disrupt heart muscle function and contribute to cardiac diseases. There are no direct links between MTND4P4 interactions or dysfunctions contributing to diabetes onset or progression established in the literature. MTND4 is not linked with processes known to cause dementia based upon current scientific understanding.",
+    "interacting_genes": [
+      "GALT",
+      "KCNH1-IT1"
+    ]
+  },
+  {
+    "gene": "DENND11",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": true,
+    "has_dementia_link": false,
+    "explanation": "Overexpression of DENND11 has been observed in certain cancers and is believed to play a role in tumorigenesis through modulation of immune responses. No associations have been found between DENND11 gene function or mutations with heart disease pathology DENND11 is implicated in insulin signaling; disru_funcions are linked to diabetes onset and progression. No evidence suggests DENND11 plays a role in dementia development or related pathologies based upon current understanding.",
+    "interacting_genes": [
+      "GALT"
+    ]
+  },
+  {
+    "gene": "CXCR2",
+    "has_cancer_link": true,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "The chemokine receptor CXCR2 is involved in angiogenesis and metastasis; high expression levels are associated with worse prognosis. No evidence associates CXCR2 function or dysfunction directly with heart disease pathology CXCR2 is not known to play a role in insulin signaling or diabetes-related processes. No evidence connects CXCR2's function with dementia risk based on current scientific knowledge",
+    "interacting_genes": [
+      "GALT",
+      "KCNH1-IT1"
+    ]
+  },
+  {
+    "gene": "OSBPL5",
+    "has_cancer_link": false,
+    "has_heart_disease_link": true,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "No known direct associations with human cancers have been reported. OSBP family members are primarily involved in lipid transport. Direct interactions of Osbpl5a (OSBPL5) with cardiac proteins suggest a potential role. However, further studies on this gene are needed to understand its impact fully. Current research does not show OSBP family members having direct roles in diabetes pathogenesis or metabolism. However, altered lipid homeostasis can influence broader health outcomes. There is no substantial evidence linking OSBP family members directly to dementia pathogenesis or progression. Lipid transport functions may have indirect effects on cellular integrity over time but are not specifically connected.",
+    "interacting_genes": [
+      "NR4A1AS",
+      "NANOS1"
+    ]
+  },
+  {
+    "gene": "DAD1P1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "NR4A1AS",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "NANOS1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "TLE2",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "LINC02827",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "As of current knowledge up to early 2023, LINC02827 is not directly linked with cancer pathogenesis. No direct evidence suggesting a role in heart disease has been established for LINC02827 as of early 2023. There is no current association between LINC02827 and diabetes in peer-reviewed studies up to early 2023. LINC02827 has not been implicated in dementia through the literature available as of early 2023.",
+    "interacting_genes": [
+      "BTF3P16"
+    ]
+  },
+  {
+    "gene": "BTF3P16",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "RNA5SP188",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "SAXO3",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  },
+  {
+    "gene": "ENOPH1",
+    "has_cancer_link": false,
+    "has_heart_disease_link": false,
+    "has_diabetes_link": false,
+    "has_dementia_link": false,
+    "explanation": "Model omitted this gene in the JSON output.",
+    "interacting_genes": []
+  }
+]

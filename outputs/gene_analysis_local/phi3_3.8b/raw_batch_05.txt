@@ -1,0 +1,117 @@
+{
+  "genes": [
+    {
+      "symbol": "ARSLP1",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Evidence suggests that ARSLP1 is associated with breast and ovarian cancers. The gene's role in tumorigenesis has been confirmed by multiple studies linking its expression levels to cancer progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct association between ARSLP1 and heart diseases is currently documented."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There's no strong evidence supporting a role for ARSLP1 in diabetes development or progression."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "Research has not established any connection between mutations in the ARSLP1 gene and dementia pathologies such as Alzheimer's disease."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SMPD4P1"
+        ],
+        "evidence": "ARSLP1 has been shown to interact with SMPD4P1 in a process relevant to lipid metabolism and sphingolipid processing."
+      }
+    },
+    {
+      "symbol": "SMPD4P1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No significant evidence indicates a direct association between SMPD4P1 and cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "SMPD4P1 has not been linked to heart diseases in current scientific literature."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There is no established connection between SMPD4P1 and diabetes development or progression."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct association with dementia pathologies has been documented for mutations in the SMPD4P1 gene."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "IGHD6-6",
+          "VAMP9P"
+        ],
+        "evidence": "SMPD4P1 has been implicated in lipid metabolism and sphingolipid processing pathways that interact with IGHD6-6 and VAMP9P, suggesting a coordinated role within these cellular processes."
+      }
+    },
+    {
+      "symbol": "IGHD6-6",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "The IGHD6-6 gene has not been directly associated with cancer."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No evidence suggests a connection between the IGHD6-6 gene and heart disease risk or pathology."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There's no substantial research linking this particular genetic variant with diabetes development or progression."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "IGHD6-6 does not appear to influence dementia risk based on current studies and evidence."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SMPD4P1"
+        ],
+        "evidence": "IGHD6-6 has been found to interact with SMPD4P1 in the context of sphingolipid metabolism."
+      }
+    },
+    {
+      "symbol": "VAMP9P",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "There is no clear evidence linking VAMP9P with cancer development or progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "VAMP9P has not been shown to contribute directly to heart disease pathology based on available research data."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "The gene does not seem to play a role in diabetes as per current biomedical understanding and studies."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "There is no evidence that suggests VAMP9P mutations are connected with dementia or Alzheimer's disease pathology."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": [
+          "SMPD4P1"
+        ],
+        "evidence": "VAMP9P interacts with SMPD4P1 in pathways that are crucial for intracellular transport and endosomal sorting processes."
+      }
+    }
+  ]
+}

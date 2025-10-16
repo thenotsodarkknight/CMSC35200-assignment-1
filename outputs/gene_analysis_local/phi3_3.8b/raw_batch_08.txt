@@ -1,0 +1,134 @@
+{
+  "genes": [
+    {
+      "symbol": "GALT",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Elevated GALT levels are found in gastric and colorectal cancers. The enzyme activates nucleotide sugars for lipid modifications which may play a role in cancer progression."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No direct evidence linking GALT to heart disease has been established."
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "Galactose-1-phosphate uridyltransferase (GALT) deficiency is associated with galactosemia and can lead to complications that may increase diabetes risk."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No direct evidence suggests a connection between GALT gene function and dementia development."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["KCNH1-IT1", "MTND4P4"],
+        "evidence": "Interaction data for GALT is limited; these partnerships are suggested based on gene proximity and shared metabolic pathways."
+      }
+    },
+    {
+      "symbol": "KCNH1-IT1",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No evidence suggests KCNH1 and IT1 contribute to cancer development."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "KCNH1 encodes for a potasssium channel involved in heart rate regulation; mutations can lead to arrhythmias and potentially contribute to cardiac diseases."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "No known link between KCNH1-IT1 interaction or the resulting protein function with diabetes pathogenesis has been established."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "KCNH1 is not implicated in any processes directly related to cognitive decline leading to dementia."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["GALT"],
+        "evidence": "While no direct interactions with GALT have been clinically validated in the context of disease pathways, they may be connected through shared biological functions."
+      }
+    },
+    {
+      "symbol": "MTND4P4",
+      "diseases": {
+        "cancer": {
+          "associated": false,
+          "evidence": "No known association between MTND4 and cancer has been reported."
+        },
+        "heart_disease": {
+          "associated": true,
+          "evidence": "Mitochondrial NADH dehydrogenase 4 (MTND4) is crucial for cellular energy production; defects can disrupt heart muscle function and contribute to cardiac diseases."
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "There are no direct links between MTND4P4 interactions or dysfunctions contributing to diabetes onset or progression established in the literature."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "MTND4 is not linked with processes known to cause dementia based upon current scientific understanding."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["GALT", "KCNH1-IT1"],
+        "evidence": "Interaction evidence is speculative; these partnerships might be inferred from the involvement of MTND4 in mitochondrial processes and possible overlaps with lipid metabolism."
+      }
+    },
+    {
+      "symbol": "DENND11",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "Overexpression of DENND11 has been observed in certain cancers and is believed to play a role in tumorigenesis through modulation of immune responses."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No associations have been found between DENND11 gene function or mutations with heart disease pathology"
+        },
+        "diabetes": {
+          "associated": true,
+          "evidence": "DENND11 is implicated in insulin signaling; disru_funcions are linked to diabetes onset and progression."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence suggests DENND11 plays a role in dementia development or related pathologies based upon current understanding."
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["GALT"],
+        "evidence": "Due to gene proximity on chromosome 19 and the involvement of DENND11 in lipid metabolism pathways that also include GALT's function."
+      }
+    },
+    {
+      "symbol": "CXCR2",
+      "diseases": {
+        "cancer": {
+          "associated": true,
+          "evidence": "The chemokine receptor CXCR2 is involved in angiogenesis and metastasis; high expression levels are associated with worse prognosis."
+        },
+        "heart_disease": {
+          "associated": false,
+          "evidence": "No evidence associates CXCR2 function or dysfunction directly with heart disease pathology"
+        },
+        "diabetes": {
+          "associated": false,
+          "evidence": "CXCR2 is not known to play a role in insulin signaling or diabetes-related processes."
+        },
+        "dementia": {
+          "associated": false,
+          "evidence": "No evidence connects CXCR2's function with dementia risk based on current scientific knowledge"
+        }
+      },
+      "interactions": {
+        "has_interactions": true,
+        "partners": ["GALT", "KCNH1-IT1"],
+        "evidence": "Interaction evidence is speculative; these partnerships might be inferred from the shared roles in cellular signaling and lipid metabolism pathways."
+      }
+    }
+  ]
+}

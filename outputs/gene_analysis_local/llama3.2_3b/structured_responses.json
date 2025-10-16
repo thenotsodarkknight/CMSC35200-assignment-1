@@ -1,0 +1,1327 @@
+[
+  {
+    "genes": [
+      {
+        "symbol": "TVP23C",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No association established"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No connection found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Limited to cellular processes only"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "DRC4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence of direct involvement"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No established link"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No known connection"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Limited research findings"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "ARL8BP2",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No established link"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited research findings"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No connection found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Insufficient data to determine association"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "ARL6IP4"
+          ],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "LSM12P1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited research findings"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Insufficient data to determine association"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No known connection"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "LSM12BP2"
+          ],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "LINC01419",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence of direct involvement"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited research findings"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Insufficient data to determine association"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No known connection"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "KRT8",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association with cancer"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involved in the structure of cardiac cells, alterations may contribute to disease"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No established link"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "KRT14"
+          ],
+          "evidence": "Direct physical interactions"
+        }
+      },
+      {
+        "symbol": "FANCF",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Mutations can disrupt DNA repair, leading to cancer development"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No established link"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association with dementia"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "FANCI",
+            "NBSL1",
+            "FANCG"
+          ],
+          "evidence": "Part of the FANC pathway for DNA repair"
+        }
+      },
+      {
+        "symbol": "DERL1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No established link to cancer development"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involvement in the regulation of cardiac cell growth"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association with dementia"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "DERL2"
+          ],
+          "evidence": "Direct physical interactions"
+        }
+      },
+      {
+        "symbol": "ZNF774",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association with cancer development"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involvement in the regulation of cardiac cell growth and differentiation"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No established link to diabetes"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association with dementia"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "ZNF335",
+            "ZNF703",
+            "KRT8"
+          ],
+          "evidence": "Transcriptional regulation and physical interactions"
+        }
+      },
+      {
+        "symbol": "SFTPC",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No established link to cancer development"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involvement in the regulation of cardiac cell growth and differentiation"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association with dementia"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SFTPB",
+            "ACTN1"
+          ],
+          "evidence": "Transcriptional regulation and cell signaling interactions"
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "CRLF1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence; primarily involved in B cell development and function"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No significant association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "BCR"
+          ],
+          "evidence": "Direct interaction involved in B cell signaling"
+        }
+      },
+      {
+        "symbol": "SYNGR3",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No significant association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [],
+          "evidence": "No known direct or pathway-level interactions"
+        }
+      },
+      {
+        "symbol": "PSMD11",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence; primarily involved in proteasome function"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Mutations can lead to familial hypercholesterolemia"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No significant association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PSME1",
+            "PSMA4"
+          ],
+          "evidence": "Direct interactions involved in proteasome function"
+        }
+      },
+      {
+        "symbol": "ATP6V0A4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence; primarily involved in mitochondrial function"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Mutations can lead to hypertrophic cardiomyopathy"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No significant association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "ATP6V0A3",
+            "COX10"
+          ],
+          "evidence": "Direct interactions involved in mitochondrial function"
+        }
+      },
+      {
+        "symbol": "ATP1B3-AS1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Mutations can lead to familial hyperkalemic periodic paralysis"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No significant association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "ATP1B3",
+            "BCR"
+          ],
+          "evidence": "Direct interactions involved in ion channel function"
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "CYCSP23",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence linking CYCSP23 to cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No known association with heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No established link between CYCSP23 and diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Insufficient data to determine any connection to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "KIF1A",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "KIF1A is implicated in cancer progression through its role in microtubule stabilization."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited evidence suggests potential involvement in heart disease, but more research is needed."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association established between KIF1A and diabetes."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "KIF1A has been linked to dementia through its role in neurodegeneration."
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "LHFPL5",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Mutations in LHFPL5 have been associated with cancer development and progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No established link between LHFPL5 and heart disease."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "LHFPL5 plays a role in glucose metabolism, suggesting an association with diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Insufficient data to determine any connection to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "CYCSP23"
+          ],
+          "evidence": "Interaction type: pathway-level; Evidence: [study name]"
+        }
+      },
+      {
+        "symbol": "RPL15P6",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No known association with cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No established link between RPL15P6 and heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Insufficient data to determine any connection to diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No known connection to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "THRIL",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Thrill is known to regulate cell growth and differentiation, suggesting an association with cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No established link between THRIL and heart disease."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "THRIL plays a role in insulin secretion, suggesting an association with diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Insufficient data to determine any connection to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "KIF1A"
+          ],
+          "evidence": "Interaction type: direct; Evidence: [study name]"
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "ARSLP1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence linking ARSLP1 to cancer."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Studies suggest ARSLP1 may play a role in cardiac hypertrophy and heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No established link between ARSLP1 and diabetes."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct evidence linking ARSLP1 to dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SMPD4"
+          ],
+          "evidence": "Direct interaction observed in cellular studies"
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "PRSS43P",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found in public databases."
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Overexpression linked to cardiovascular disease progression."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association with diabetes mellitus."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Limited evidence of cognitive decline connection."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SURF1"
+          ],
+          "evidence": "Pathway-level interaction with surfactant protein 1."
+        }
+      },
+      {
+        "symbol": "KLF5",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Overexpression linked to oncogenesis and tumor progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No significant association with heart disease pathology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Limited evidence of diabetes connection."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "Impaired regulation of tau protein linked to neurodegenerative diseases."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "TP53"
+          ],
+          "evidence": "Direct interaction with TP53 for transcriptional regulation."
+        }
+      },
+      {
+        "symbol": "RN7SL284P",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found in public databases."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited evidence of cardiovascular disease connection."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No significant association with diabetes mellitus."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No available information on dementia connection."
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "SURF1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Aberrant surfactant protein 1 expression linked to cancer development."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No significant association with heart disease pathology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Limited evidence of diabetes connection."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "Impaired surfactant protein 1 regulation linked to neurodegenerative diseases."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PRSS43P"
+          ],
+          "evidence": "Pathway-level interaction with prss43p for lung function regulation."
+        }
+      },
+      {
+        "symbol": "MAGEC3",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Overexpression linked to tumor development and immune evasion."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No significant association with heart disease pathology."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Limited evidence of diabetes connection."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "Impaired regulation of immune response linked to neurodegenerative diseases."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "KLF5"
+          ],
+          "evidence": "Direct interaction with klf5 for immune modulation and tumor progression."
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "ADAM33",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence, primarily associated with asthma and lung function"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involved in cardiac fibrosis and inflammation"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "PDGFRB"
+          ],
+          "evidence": "Direct interaction, important for ADAM33's function in cardiovascular diseases"
+        }
+      },
+      {
+        "symbol": "GFUS",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct or indirect association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "PTBP3",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Involved in cancer progression and metastasis"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "TP53"
+          ],
+          "evidence": "Important for regulating cell growth and proliferation"
+        }
+      },
+      {
+        "symbol": "MYCLP2",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct or indirect association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": ""
+        }
+      },
+      {
+        "symbol": "MAGEA8-AS1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Involved in cancer cell growth and proliferation"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No evidence of association"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [],
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "GALT",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence; primarily involved in glucose metabolism"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Critical for glucose sensing and regulation"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct connection established"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "GAL",
+            "GALE",
+            "GLUT1",
+            "GLUT2",
+            "GLUT3"
+          ],
+          "evidence": "Protein-protein interactions involved in glucose metabolism"
+        }
+      },
+      {
+        "symbol": "KCNH1-IT1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involved in cardiac ion channel function"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct connection established"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct link to neurological diseases"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "KCNH2",
+            "KCNJ1",
+            "KCND1",
+            "KCND2"
+          ],
+          "evidence": "Partners in cardiac ion channel function"
+        }
+      },
+      {
+        "symbol": "MTND4P4",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found; mitochondrial protein with unclear role"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct connection established"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No evidence linking to glucose regulation"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Unclear role in neurological diseases"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "MTND1",
+            "MTND2",
+            "MTND5",
+            "MTND6",
+            "MTND7"
+          ],
+          "evidence": "Partners in mitochondrial function; exact role unclear"
+        }
+      },
+      {
+        "symbol": "DENND11",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence linking to cancer development"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct connection established"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Limited understanding of its role in glucose regulation"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Unclear relationship with neurological diseases"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "DENND1",
+            "DENND2",
+            "DENND3",
+            "DENND4"
+          ],
+          "evidence": "Partners in DNA repair pathways; exact role unclear"
+        }
+      },
+      {
+        "symbol": "CXCR2",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No evidence linking to cancer development"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited understanding of its role in cardiovascular disease"
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Involved in insulin sensitivity and glucose metabolism"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Unclear relationship with neurological diseases"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "CXCR1",
+            "CXCR5",
+            "S100A8"
+          ],
+          "evidence": "Partners in chemotaxis and immune response; role in diabetes unclear"
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "OSBPL5",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence linking OSBPL5 directly to cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No clear association found between OSBPL5 and heart disease."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Some studies suggest a link between OSBPL5 variants and diabetes risk, but evidence is limited."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association between OSBPL5 and dementia has been established."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "TP53"
+          ],
+          "evidence": "Direct interaction, key regulatory role in cell growth control."
+        }
+      },
+      {
+        "symbol": "DAD1P1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct evidence linking DAD1P1 to cancer or any other disease."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited information available on DAD1P1's potential role in heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No clear connection between DAD1P1 and diabetes risk or pathology."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Insufficient data to establish a link between DAD1P1 and dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": "No known interactions with other genes"
+        }
+      },
+      {
+        "symbol": "NR4A1AS",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "NR4A1 antisense RNA has been implicated in cancer suppression and regulation of cell growth."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No clear evidence linking NR4A1AS to heart disease."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Some studies suggest NR4A1 AS is involved in glucose metabolism and insulin sensitivity regulation, potentially playing a role in diabetes risk."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "Limited evidence on the potential link between NR4A1AS and dementia."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "NR4A1"
+          ],
+          "evidence": "Regulatory interaction, transcriptional regulation of target genes."
+        }
+      },
+      {
+        "symbol": "NANOS1",
+        "diseases": {
+          "cancer": {
+            "associated": true,
+            "evidence": "Nanos is a tumor suppressor gene, mutations or deletions leading to cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No clear evidence linking NANOS1 to heart disease."
+          },
+          "diabetes": {
+            "associated": true,
+            "evidence": "Some studies suggest a link between NANOS expression and regulation of insulin signaling in pancreatic beta cells, potentially playing a role in diabetes risk."
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association between NANOS1 and dementia has been established."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "TP53"
+          ],
+          "evidence": "Direct interaction, tumor suppression role in cancer development."
+        }
+      },
+      {
+        "symbol": "TLE2",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No clear evidence linking TLE2 to cancer development or progression."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "Limited information available on potential role in heart disease."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "Insufficient data to establish connection between TLE2 and diabetes risk or pathology."
+          },
+          "dementia": {
+            "associated": true,
+            "evidence": "TLE2 has been implicated in neurodegenerative diseases, including Alzheimer's disease."
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "TP53"
+          ],
+          "evidence": "Regulatory interaction, role in gene silencing and transcriptional regulation."
+        }
+      }
+    ]
+  },
+  {
+    "genes": [
+      {
+        "symbol": "LINC02827",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "Limited evidence for involvement in cancer."
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "SAXO3"
+          ],
+          "evidence": "Partnership in RNA-mediated regulation."
+        }
+      },
+      {
+        "symbol": "BTF3P16",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": "Gene not identified as part of established networks."
+        }
+      },
+      {
+        "symbol": "RNA5SP188",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "heart_disease": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": false,
+          "partners": [],
+          "evidence": "Gene not identified as part of established networks."
+        }
+      },
+      {
+        "symbol": "SAXO3",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involved in cardiac development and function."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "LINC02827"
+          ],
+          "evidence": "Partnership in RNA-mediated regulation."
+        }
+      },
+      {
+        "symbol": "ENOPH1",
+        "diseases": {
+          "cancer": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "heart_disease": {
+            "associated": true,
+            "evidence": "Involved in cardiac development and function."
+          },
+          "diabetes": {
+            "associated": false,
+            "evidence": "No direct association found"
+          },
+          "dementia": {
+            "associated": false,
+            "evidence": "No direct association found"
+          }
+        },
+        "interactions": {
+          "has_interactions": true,
+          "partners": [
+            "BTF3P16",
+            "SAXO3"
+          ],
+          "evidence": "Partnership in RNA-mediated regulation."
+        }
+      }
+    ]
+  }
+]
