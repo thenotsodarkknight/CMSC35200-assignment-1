@@ -61,3 +61,5 @@ I manually spot-checked two genes (“TP53” and “KIF1A”) against known lit
 **Challenges & Solutions.** CUDA assumptions initially crashed the run; explicitly setting `--device=mps --dtype=float32` fixed it. I also rehydrated the log after the first run to ensure the plotting script has input even if I skip retraining.
 
 **Observations.** Validation loss fell from 4.87 (step 0) to 3.59 (step 200) before drifting upward, signaling an ideal early-stop region. The plotted curve in the summary shows this elbow clearly, and sampling the model after step 200 produced coherent Shakespeare-style couplets.
+
+![nanoGPT learning curve](nanogpt_learning_curve.png)
